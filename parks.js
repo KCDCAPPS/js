@@ -10,11 +10,11 @@ $('#suburb').select2({
 	  id: 'Paraparaumu',
 	  text: 'Paraparaumu'
 	}
-	// ... more data objects .
+	// ... more data objects ...
 	]
 });
 
-/*$('#designation').select2();
+$('#designation').select2();
 
 $('#designation').prop('disabled', 'disabled');
 
@@ -23,7 +23,7 @@ $( "#designation" ).combobox();
 	  $( "#designation" ).toggle();
 	});
 });
-*/
+
 
 var parks = {
 	"Maclean": [{
