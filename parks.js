@@ -205,3 +205,5 @@ function findSuburbDesignations(suburb) {
 	console.log('Designations');
 	console.log(designations);
 }
+
+findSuburbDesignations('Waikanae');
