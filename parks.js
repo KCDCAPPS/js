@@ -18,7 +18,9 @@ $('#designation').select2();
 
 $('#suburb').on('select2:select', function (evt) {
 	var designations = findSuburbDesignations($(this).val());
-	$('#designation').select2({data:designations});
+	console.log('designations');
+	console.log(designations);
+	$('#designation').select2({data:[ designations ]});
 	console.log('evt');
 	console.log(evt);
 });
