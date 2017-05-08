@@ -1,6 +1,5 @@
 console.log('hi');
 
-/*
 $('#suburb').select2({
 	data: [
 	{
@@ -15,7 +14,7 @@ $('#suburb').select2({
 	]
 });
 
-//$('#designation').select2();
+/*$('#designation').select2();
 
 $('#designation').prop('disabled', 'disabled');
 
@@ -27,7 +26,7 @@ $( "#designation" ).combobox();
 */
 
 
- /* $( function() {
+ $( function() {
     $.widget( "custom.combobox", {
       _create: function() {
         this.wrapper = $( "<span>" )
@@ -162,7 +161,7 @@ $( "#designation" ).combobox();
     $( "#toggle" ).on( "click", function() {
       $( "#designation" ).toggle();
     });
-  } );*/
+  } );
 
 
 
