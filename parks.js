@@ -25,7 +25,8 @@ $( "#designation" ).combobox();
 	});
 });
 */
-  $( function() {
+
+
     $.widget( "custom.combobox", {
       _create: function() {
         this.wrapper = $( "<span>" )
@@ -160,7 +161,6 @@ $( "#designation" ).combobox();
     $( "#toggle" ).on( "click", function() {
       $( "#designation" ).toggle();
     });
-  } );
 
 
 
