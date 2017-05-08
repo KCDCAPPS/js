@@ -11,7 +11,7 @@ $('#suburb').select2({
       id: 'Paraparaumu',
       text: 'Paraparaumu'
     }
-    // ... more data objects ...
+    // ... more data objects ..
   ]
 });
 
