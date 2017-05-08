@@ -41,11 +41,11 @@ var parks = {
 	}],
 	"Waikanae": [{
 		"Designation": [
-			"Child Friendly",
-			"Dog Friendly",
-			"Water Park",
-			"Rugby Ground",
-			"Soccer Field"
+			{ id: "Child Friendly", text: "Child Friendly" }
+			{ id: "Dog Friendly", text: "Dog Friendly"}
+			{ id: "Water Park", text: "Water Park"}
+			{ id: "Rugby Ground", text: "Rugby Ground"}
+			{ id: "Soccer Field", text: "Soccer Field"}
 		],
 		"Suburb": "Waikanae"
 	}]
