@@ -19,9 +19,8 @@ $('#designation').select2();
 $('#designation').prop('disabled', 'disabled');
 
 $( "#designation" ).combobox();
-	$( "#toggle" ).on( "click", function() {
-	  $( "#designation" ).toggle();
-	});
+$( "#toggle" ).on( "click", function() {
+	$( "#designation" ).toggle();
 });
 
 
