@@ -1,6 +1,6 @@
 console.log('hi');
 
-
+$( document ).ready(function() {
 $('#suburb').select2({
   data: [
     {
@@ -15,9 +15,15 @@ $('#suburb').select2({
   ]
 });
 
-$('#designation').select2();
+//$('#designation').select2();
 
 $('#designation').prop('disabled', 'disabled');
+
+$( "#designation" ).combobox();
+    $( "#toggle" ).on( "click", function() {
+      $( "#designation" ).toggle();
+    });
+});
 
 var parks = {
 	"Maclean": [{
