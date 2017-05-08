@@ -20,7 +20,7 @@ $('#suburb').on('select2:select', function (evt) {
 	var designations = findSuburbDesignations($(this).val());
 	console.log('designations');
 	console.log(designations);
-	$('#designation').select2({data:[ designations ]});
+	$('#designation').select2({data: designations});
 	console.log('evt');
 	console.log(evt);
 });
@@ -66,6 +66,8 @@ function findSuburbDesignations(suburb) {
 	
 	console.log('Designations');
 	console.log(designations);
+	
+	return designations;
 }
 
 findSuburbDesignations('Waikanae');
