@@ -1,5 +1,24 @@
 console.log('hi');
 
+
+$('#suburb').select2({
+  data: [
+    {
+      id: 'Waikanae',
+      text: 'Waikanae'
+    },
+	{
+      id: 'Paraparaumu',
+      text: 'Paraparaumu'
+    }
+    // ... more data objects ...
+  ]
+});
+
+$('#designation').select2();
+
+$('#designation').prop('disabled', 'disabled');
+
 var parks = {
 	"Maclean": [{
 		"Designation": [
