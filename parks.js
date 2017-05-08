@@ -1,29 +1,31 @@
 console.log('hi');
 
-$( document ).ready(function() {
-$('#suburb').select2({
-  data: [
-    {
-      id: 'Waikanae',
-      text: 'Waikanae'
-    },
-	{
-      id: 'Paraparaumu',
-      text: 'Paraparaumu'
-    }
-    // ... more data objects ..
-  ]
+$(function() {
+	$('#suburb').select2({
+		data: [
+		{
+		  id: 'Waikanae',
+		  text: 'Waikanae'
+		},
+		{
+		  id: 'Paraparaumu',
+		  text: 'Paraparaumu'
+		}
+		// ... more data objects ..
+		]
+	});
+
+	//$('#designation').select2();
+
+	$('#designation').prop('disabled', 'disabled');
+
+	$( "#designation" ).combobox();
+		$( "#toggle" ).on( "click", function() {
+		  $( "#designation" ).toggle();
+		});
+	});
 });
 
-//$('#designation').select2();
-
-$('#designation').prop('disabled', 'disabled');
-
-$( "#designation" ).combobox();
-    $( "#toggle" ).on( "click", function() {
-      $( "#designation" ).toggle();
-    });
-});
 
 var parks = {
 	"Maclean": [{
