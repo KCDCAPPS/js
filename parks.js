@@ -16,10 +16,7 @@ $('#suburb').select2({
 
 $('#designation').select2();
 
-$('#designation').prop('disabled', 'disabled');
-
-$( "#designation" ).select2();
-
+//$('#designation').prop('disabled', 'disabled');
 
 
 var parks = {
