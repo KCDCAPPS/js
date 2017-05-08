@@ -19,9 +19,7 @@ $('#designation').select2();
 $('#designation').prop('disabled', 'disabled');
 
 $( "#designation" ).select2();
-$( "#toggle" ).on( "click", function() {
-	$( "#designation" ).toggle();
-});
+
 
 
 var parks = {
