@@ -16,6 +16,13 @@ $('#suburb').select2({
 
 $('#designation').select2();
 
+$('#suburb').on('select2:select', function (evt) {
+	var designations = findSuburbDesignations($(this).val());
+	$('#designation').select2({data:designations});
+	console.log('evt');
+	console.log(evt);
+});
+
 //$('#designation').prop('disabled', 'disabled');
 
 
