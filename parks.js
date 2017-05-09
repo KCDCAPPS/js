@@ -1,6 +1,5 @@
 console.log('hi');
 var suburb = '';
-var designations = [];
 
 
 $('#suburb').select2({
@@ -52,6 +51,7 @@ $('#designation').on('select2:select', function (evt) {
 	var selectedVals = $('#designation').val();
 	console.log('designation values');
 	console.log(selectedVals);
+	findParkDesignations(selectedVals)
 });
 
 var parks = {
@@ -96,7 +96,7 @@ function findSuburbDesignations(suburb) {
 }
 
 //Return all parks for the selected designations and suburb
-/*function findParkDesignations() {
+function findParkDesignations(selectedDesignations) {
 	
 	var availParks = [];
 	//Loop through parks
@@ -105,13 +105,18 @@ function findSuburbDesignations(suburb) {
 		//Loop through parks attributes/properties
 		$.each(attrs, function(i, item) {
 			if(item['Suburb'] == suburb){
-				//See if park matches one selected designation
-				$.each(item['Designation'], function(i, item) {
-					if(item)
-					
+				//See if park matches one of the selected designations
+				$.each(item['Designation'], function(i, parkDesignation) {
+					match = $.inArray(parkDesignation, selectedDesignations);
+					if(match){
+						console.log(parkDesignation + ' matched a value in:')
+						console.log(selectedDesignations);
+						
+					}
 				}};
 			}
 		});
+		
 	});
 	
 	console.log('Designations');
@@ -120,7 +125,7 @@ function findSuburbDesignations(suburb) {
 	return parks;
 }
 
-function containsAll(needles, haystack){ 
+/*function containsAll(needles, haystack){ 
   for(var i = 0 , len = needles.length; i < len; i++){
      if($.inArray(needles[i], haystack) == -1) return false;
   }
