@@ -42,10 +42,9 @@ $('#suburb').on('select2:select', function (evt) {
 var parks = {
 	"Maclean": [{
 		"Designation": [
-			"Child Friendly",
 			"Dog Friendly",
 			"Water Park",
-			"Rugby Ground",
+			"Base Ball Pitch",
 			"Soccer Field"
 		],
 		"Suburb": "Paraparaumu"
