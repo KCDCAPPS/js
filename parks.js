@@ -56,7 +56,7 @@ $('#designation').on('select2:select', function (evt) {
 });
 
 var parks = {
-	"Maclean": [{
+	"Maclean Park": [{
 		"Designation": [
 			"Dog Friendly",
 			"Water Park",
@@ -72,7 +72,7 @@ var parks = {
 		],
 		"Suburb": "Paraparaumu"
 	}],
-	"Waikanae": [{
+	"Waikanae Park": [{
 		"Designation": [
 			"Child Friendly",
 			"Dog Friendly",
@@ -129,6 +129,8 @@ function findParkDesignations(selectedDesignations) {
 		
 		match = 0;
 		//Build up html park list here.
+		$( "#park-list" ).append( "<div class='well'><img src="..." alt="..." class='img-thumbnail'><h2>" + Park + "</h2><p class='lead'>This park has blah blah blah</p></div>" );
+		
 	});
 	
 	console.log('Designations');
