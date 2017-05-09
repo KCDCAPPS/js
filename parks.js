@@ -54,6 +54,7 @@ window.onload = function() {
 		});
 		
 		$('#designation').on('select2:removed', function (e) {
+			console.log('Removed!!!!!!');
 			findParkDesignations($('#designation').val())
 		});
 		
