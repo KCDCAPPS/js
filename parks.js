@@ -14,7 +14,19 @@ $('#suburb').select2({
 	]
 });
 
-$('#designation').select2();
+$('#designation').select2({
+	data: [
+	{
+	  id: 'Waikanae',
+	  text: 'Waikanae'
+	},
+	{
+	  id: 'Paraparaumu',
+	  text: 'Paraparaumu'
+	}
+	// ... more data objects ...
+	]
+})
 
 $('#suburb').on('select2:select', function (evt) {
 	//var designations = findSuburbDesignations($(this).val());
