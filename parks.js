@@ -19,6 +19,7 @@ $('#suburb').select2({
 $('#designation').select2({
 	minimumResultsForSearch: Infinity	
 })
+$('#designation').prop('disabled', 'disabled');
 
 $('#suburb').on('select2:select', function (evt) {
 	var designations = findSuburbDesignations($(this).val());
@@ -38,6 +39,7 @@ $('#suburb').on('select2:select', function (evt) {
 			})
 		);
 	});
+	$('#designation').prop('disabled', 'false');
 });
 
 //$('#designation').prop('disabled', 'disabled');
