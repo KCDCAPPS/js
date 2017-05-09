@@ -17,10 +17,19 @@ $('#suburb').select2({
 $('#designation').select2();
 
 $('#suburb').on('select2:select', function (evt) {
-	var designations = findSuburbDesignations($(this).val());
+	//var designations = findSuburbDesignations($(this).val());
 	console.log('designations');
 	console.log(designations);
-	$('#designation').select2({data: designations});
+	$('#designation').select2({
+		data: [
+			{ id: "Child Friendly", text: "Child Friendly" },
+			{ id: "Dog Friendly", text: "Dog Friendly"},
+			{ id: "Water Park", text: "Water Park"},
+			{ id: "Rugby Ground", text: "Rugby Ground"},
+			{ id: "Soccer Field", text: "Soccer Field"}
+		]
+		
+		});
 	console.log('evt');
 	console.log(evt);
 });
