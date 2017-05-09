@@ -22,17 +22,14 @@ $('#suburb').on('select2:select', function (evt) {
 	console.log(designations);
 	console.log('evt');
 	console.log(evt);
-	$.each(designations, function (i, item) {
-		console.log('loopy');
-		console.log(i);
-		console.log(item);
+	$.each(designations, function (i, designation) {
 		$('#designation').append(
 			$('<option>', { 
-				value: i,
-				text : i 
+				value: designation,
+				text : designation 
 			})
 		);
-});
+	});
 });
 
 //$('#designation').prop('disabled', 'disabled');
