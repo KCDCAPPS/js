@@ -64,6 +64,13 @@ var parks = {
 			"Soccer Field"
 		],
 		"Suburb": "Paraparaumu"
+	},
+	"Tennis Court Road": [{
+		"Designation": [
+			"Dog Friendly",
+			"Tennis Court"
+		],
+		"Suburb": "Paraparaumu"
 	}],
 	"Waikanae": [{
 		"Designation": [
