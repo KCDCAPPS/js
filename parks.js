@@ -108,6 +108,7 @@ function findParkDesignations(selectedDesignations) {
 				//See if park matches one of the selected designations
 				$.each(item['Designation'], function(i, parkDesignation) {
 					match = $.inArray(parkDesignation, selectedDesignations);
+					console.log(match);
 					if(match){
 						console.log(parkDesignation + ' matched a value in:')
 						console.log(selectedDesignations);
