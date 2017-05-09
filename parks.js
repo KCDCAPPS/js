@@ -14,27 +14,25 @@ $('#suburb').select2({
 	]
 });
 
-$('#designation').select2({
-	data: [
-	{
-	  id: 'Waikanae',
-	  text: 'Waikanae'
-	},
-	{
-	  id: 'Paraparaumu',
-	  text: 'Paraparaumu'
-	}
-	// ... more data objects ...
-	]
-})
+$('#designation').select2({})
 
 $('#suburb').on('select2:select', function (evt) {
-	//var designations = findSuburbDesignations($(this).val());
-	//console.log('designations');
-	//console.log(designations);
-	$('#designation').select2();
+	var designations = findSuburbDesignations($(this).val());
+	console.log('designations');
+	console.log(designations);
 	console.log('evt');
 	console.log(evt);
+	$.each(designations, function (i, item) {
+		console.log('loopy');
+		console.log(i);
+		console.log(item);
+		$('#designation').append(
+			$('<option>', { 
+				value: i,
+				text : i 
+			})
+		);
+});
 });
 
 //$('#designation').prop('disabled', 'disabled');
@@ -43,21 +41,21 @@ $('#suburb').on('select2:select', function (evt) {
 var parks = {
 	"Maclean": [{
 		"Designation": [
-			{ id: "Child Friendly", text: "Child Friendly" },
-			{ id: "Dog Friendly", text: "Dog Friendly"},
-			{ id: "Water Park", text: "Water Park"},
-			{ id: "Rugby Ground", text: "Rugby Ground"},
-			{ id: "Soccer Field", text: "Soccer Field"}
+			"Child Friendly",
+			"Dog Friendly",
+			"Water Park",
+			"Rugby Ground",
+			"Soccer Field"
 		],
 		"Suburb": "Paraparaumu"
 	}],
 	"Waikanae": [{
 		"Designation": [
-			{ id: "Child Friendly", text: "Child Friendly" },
-			{ id: "Dog Friendly", text: "Dog Friendly"},
-			{ id: "Water Park", text: "Water Park"},
-			{ id: "Rugby Ground", text: "Rugby Ground"},
-			{ id: "Soccer Field", text: "Soccer Field"}
+			"Child Friendly",
+			"Dog Friendly",
+			"Water Park",
+			"Rugby Ground",
+			"Soccer Field"
 		],
 		"Suburb": "Waikanae"
 	}]
