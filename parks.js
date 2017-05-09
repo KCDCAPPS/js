@@ -90,7 +90,7 @@ window.onload = function() {
 
 		//Return all designations for parks for a selected suburb
 		function findSuburbDesignations(suburb) {
-
+			$( "#park-list" ).empty();
 			var designations = [];
 			$.each(parks, function(park, attrs) {
 				console.log(park);
@@ -117,7 +117,7 @@ window.onload = function() {
 
 		//Return all parks for the selected designations and suburb
 		function findParkDesignations(selectedDesignations) {
-			$( "#park-list" ).empty()
+			$( "#park-list" ).empty();
 			var availParks = [];
 			var match = 0;
 			//Loop through parks
