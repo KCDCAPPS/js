@@ -110,7 +110,7 @@ function findParkDesignations(selectedDesignations) {
 				//See if park matches one of the selected designations
 				$.each(item['Designation'], function(i, parkDesignation) {
 					console.log(match);
-					if($.inArray(parkDesignation, selectedDesignations) > 0 ? true : false){
+					if($.inArray(parkDesignation, selectedDesignations) != -1 ? true : false){
 						match++;
 						console.log('match');
 						console.log(match);
