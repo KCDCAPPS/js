@@ -1,4 +1,7 @@
 console.log('hi');
+var suburb = '';
+var designations = [];
+
 
 $('#suburb').select2({
 	placeholder: "Select a Suburb",
@@ -17,12 +20,15 @@ $('#suburb').select2({
 });
 
 $('#designation').select2({
-	minimumResultsForSearch: Infinity	
+	minimumResultsForSearch: Infinity,
+	tags: true
 })
 $('#designation').prop('disabled', 'disabled');
 
+
 $('#suburb').on('select2:select', function (evt) {
-	var designations = findSuburbDesignations($(this).val());
+	suburb = $(this).val();
+	designations = findSuburbDesignations(suburb);
 	console.log('designations');
 	console.log(designations);
 	console.log('evt');
@@ -42,8 +48,11 @@ $('#suburb').on('select2:select', function (evt) {
 	$('#designation').prop('disabled', false);
 });
 
-//$('#designation').prop('disabled', 'disabled');
-
+$('#designation').on('select2:select', function (evt) {
+	var selectedVals = $('#designation').val();
+	console.log('designation values');
+	console.log(selectedVals);
+});
 
 var parks = {
 	"Maclean": [{
@@ -86,4 +95,35 @@ function findSuburbDesignations(suburb) {
 	return designations;
 }
 
-findSuburbDesignations('Waikanae');
+//Return all parks for the selected designations and suburb
+/*function findParkDesignations() {
+	
+	var availParks = [];
+	//Loop through parks
+	$.each(parks, function(park, attrs) {
+		console.log(park);
+		//Loop through parks attributes/properties
+		$.each(attrs, function(i, item) {
+			if(item['Suburb'] == suburb){
+				//See if park matches one selected designation
+				$.each(item['Designation'], function(i, item) {
+					if(item)
+					
+				}};
+			}
+		});
+	});
+	
+	console.log('Designations');
+	console.log(designations);
+	
+	return parks;
+}
+
+function containsAll(needles, haystack){ 
+  for(var i = 0 , len = needles.length; i < len; i++){
+     if($.inArray(needles[i], haystack) == -1) return false;
+  }
+  return true;
+}*/
+
