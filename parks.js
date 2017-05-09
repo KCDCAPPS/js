@@ -93,8 +93,11 @@ window.onload = function() {
 				console.log(park);
 				$.each(attrs, function(i, item) {
 					if(item['Suburb'] == suburb && !($.inArray(item['Designation'], designations) != -1 ? true : false)){
-						console.log($.inArray(item['Designation'], designations) != -1 ? true : false);
-						designations = designations.concat(item['Designation']);
+						$.each(item['Designation'], function(i, parkDesignation) {
+							if($.inArray(parkDesignation, selectedDesignations) != -1 ? true : false){
+								designations = designations.concat(item['Designation']);
+							}
+						});						
 					}
 				});
 			});
