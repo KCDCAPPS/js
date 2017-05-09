@@ -111,7 +111,9 @@ function findParkDesignations(selectedDesignations) {
 				$.each(item['Designation'], function(i, parkDesignation) {
 					console.log(match);
 					if($.inArray(parkDesignation, selectedDesignations) > 0 ? true : false){
-						match++;					
+						match++;
+						console.log('match');
+						console.log(match);
 					}
 				});
 			}
