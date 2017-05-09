@@ -1,11 +1,4 @@
 window.onload = function() {
-	define('jquery', [], function() { return window.jQuery; });
-	require([
-		'jquery',
-		'//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js'
-	], function($, select2) {
-		$.select2 = select2;
-
 		console.log('hi');
 		var suburb = '';
 
@@ -158,6 +151,4 @@ window.onload = function() {
 		  }
 		  return true;
 		}*/
-
-	});
 }
