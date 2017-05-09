@@ -109,7 +109,6 @@ function findParkDesignations(selectedDesignations) {
 			if(item['Suburb'] == suburb){
 				//See if park matches one of the selected designations
 				$.each(item['Designation'], function(i, parkDesignation) {
-					console.log(match);
 					if($.inArray(parkDesignation, selectedDesignations) != -1 ? true : false){
 						match++;
 						console.log('match');
@@ -120,6 +119,8 @@ function findParkDesignations(selectedDesignations) {
 		});
 		if(match == selectedDesignations.length)
 			availParks.push(park);
+		
+		match = 0;
 		//Build up html park list here.
 	});
 	
