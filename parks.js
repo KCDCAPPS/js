@@ -19,6 +19,7 @@ $('#suburb').select2({
 });
 
 $('#designation').select2({
+	placeholder: "Click here to select one or more designations",
 	tags: true,
 	tokenSeparators: [',', ' ']
 })
@@ -99,6 +100,7 @@ function findSuburbDesignations(suburb) {
 function findParkDesignations(selectedDesignations) {
 	
 	var availParks = [];
+	var match = 0;
 	//Loop through parks
 	$.each(parks, function(park, attrs) {
 		console.log(park);
@@ -107,21 +109,23 @@ function findParkDesignations(selectedDesignations) {
 			if(item['Suburb'] == suburb){
 				//See if park matches one of the selected designations
 				$.each(item['Designation'], function(i, parkDesignation) {
-					match = $.inArray(parkDesignation, selectedDesignations) > 0 ? true : false ;
 					console.log(match);
-					if(match){
-						console.log(parkDesignation + ' matched a value in:')
-						console.log(selectedDesignations);
-						
+					if($.inArray(parkDesignation, selectedDesignations) > 0 ? true : false){
+						match++;					
 					}
 				});
 			}
 		});
-		
+		if(match == selectedDesignations.length)
+			availParks.push(park);
+		//Build up html park list here.
 	});
 	
 	console.log('Designations');
 	console.log(designations);
+	
+	console.log('Matched Parks');
+	console.log(availParks);
 	
 	return parks;
 }
