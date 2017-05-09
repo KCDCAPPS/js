@@ -49,12 +49,15 @@ window.onload = function() {
 			$('#designation').prop('disabled', false);
 		});
 
-		$('#designation').on('select2:select', function (evt) {
+		$('#designation').on('select2:select', function (e) {
 			var selectedVals = $('#designation').val();
-			console.log('designation values');
-			console.log(selectedVals);
+		});
+		
+		$('#designation').on('select2:removed', function (e) {
+			var selectedVals = $('#designation').val();
 			findParkDesignations(selectedVals)
 		});
+		
 
 		var parks = {
 			"Maclean Park": [{
