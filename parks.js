@@ -129,7 +129,7 @@ function findParkDesignations(selectedDesignations) {
 		
 		match = 0;
 		//Build up html park list here.
-		$( "#park-list" ).append( "<div class='well'><img src="..." alt="..." class='img-thumbnail'><h2>" + Park + "</h2><p class='lead'>This park has blah blah blah</p></div>" );
+		$( "#park-list" ).append( "<div class='well'><img src='...' alt='...' class='img-thumbnail'><h2>" + Park + "</h2><p class='lead'>This park has blah blah blah</p></div>" );
 		
 	});
 	
