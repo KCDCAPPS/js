@@ -98,7 +98,7 @@ window.onload = function() {
 								console.log('looooopy');
 								console.log($.inArray(parkDesignation, designations) != -1 ? true : false);
 								console.log($.inArray(parkDesignation, designations));
-								designations = designations.push(parkDesignation);
+								designations.push(parkDesignation);
 							//}
 						});									
 					}
