@@ -113,7 +113,7 @@ function findParkDesignations(selectedDesignations) {
 						console.log(selectedDesignations);
 						
 					}
-				}};
+				});
 			}
 		});
 		
