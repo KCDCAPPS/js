@@ -2,6 +2,7 @@ console.log('hi');
 
 $('#suburb').select2({
 	placeholder: "Select a Suburb",
+	allowClear: true,
 	data: [
 	{
 	  id: 'Waikanae',
