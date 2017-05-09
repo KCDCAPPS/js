@@ -20,8 +20,8 @@ $('#suburb').select2({
 });
 
 $('#designation').select2({
-	minimumResultsForSearch: Infinity,
-	tags: true
+	tags: true,
+	tokenSeparators: [',', ' ']
 })
 $('#designation').prop('disabled', 'disabled');
 
