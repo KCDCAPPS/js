@@ -50,12 +50,11 @@ window.onload = function() {
 		});
 
 		$('#designation').on('select2:select', function (e) {
-			var selectedVals = $('#designation').val();
+			findParkDesignations($('#designation').val())
 		});
 		
 		$('#designation').on('select2:removed', function (e) {
-			var selectedVals = $('#designation').val();
-			findParkDesignations(selectedVals)
+			findParkDesignations($('#designation').val())
 		});
 		
 
