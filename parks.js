@@ -96,7 +96,8 @@ window.onload = function() {
 						$.each(item['Designation'], function(ii, parkDesignation) {
 							//if($.inArray(parkDesignation, designations) != -1 ? true : false){
 								console.log('looooopy');
-								console.log($.inArray(parkDesignation, designations) != -1 ? true : false);
+								console.log($.inArray(parkDesignation, designations) == -1 ? true : false);
+								console.log(parkDesignation);
 								console.log($.inArray(parkDesignation, designations));
 								designations.push(parkDesignation);
 							//}
