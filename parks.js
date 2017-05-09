@@ -92,7 +92,7 @@ window.onload = function() {
 			$.each(parks, function(park, attrs) {
 				console.log(park);
 				$.each(attrs, function(i, item) {
-					if(item['Suburb'] == suburb && $.inArray(item['Designation'], designations) != -1 ? true : false){
+					if(item['Suburb'] == suburb){
 						$.each(item['Designation'], function(i, parkDesignation) {
 							if($.inArray(parkDesignation, designations) != -1 ? true : false){
 								designations = designations.concat(item['Designation']);
