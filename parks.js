@@ -93,10 +93,13 @@ window.onload = function() {
 				console.log(park);
 				$.each(attrs, function(i, item) {
 					if(item['Suburb'] == suburb){
-						$.each(item['Designation'], function(i, parkDesignation) {
-							if($.inArray(parkDesignation, designations) != -1 ? true : false){
+						$.each(item['Designation'], function(ii, parkDesignation) {
+							//if($.inArray(parkDesignation, designations) != -1 ? true : false){
+								console.log('looooopy');
+								console.log($.inArray(parkDesignation, designations) != -1 ? true : false);
+								console.log($.inArray(parkDesignation, designations));
 								designations = designations.concat(item['Designation']);
-							}
+							//}
 						});						
 					}
 				});
