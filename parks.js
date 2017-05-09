@@ -1,10 +1,6 @@
-requirejs.config({
-    "paths": {
-      "select2": "//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min"
-    }
-});
-
-requirejs(["select2"], function(select2) {
+require([
+	"//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"
+], function(select2) {
 	$.select2 = select2;
 
 	console.log('hi');
