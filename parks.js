@@ -39,7 +39,7 @@ $('#suburb').on('select2:select', function (evt) {
 			})
 		);
 	});
-	$('#designation').prop('disabled', 'false');
+	$('#designation').prop('disabled', false);
 });
 
 //$('#designation').prop('disabled', 'disabled');
