@@ -22,6 +22,10 @@ $('#suburb').on('select2:select', function (evt) {
 	console.log(designations);
 	console.log('evt');
 	console.log(evt);
+	$('#designation')
+    .find('option')
+    .remove()
+    .end();
 	$.each(designations, function (i, designation) {
 		$('#designation').append(
 			$('<option>', { 
