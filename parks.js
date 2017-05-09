@@ -53,7 +53,7 @@ window.onload = function() {
 			findParkDesignations($('#designation').val())
 		});
 		
-		$('#designation').on('select2:removed', function (e) {
+		$('#designation').on('select2:unselect', function (e) {
 			console.log('Removed!!!!!!');
 			findParkDesignations($('#designation').val())
 		});
