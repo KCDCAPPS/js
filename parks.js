@@ -94,7 +94,7 @@ window.onload = function() {
 				$.each(attrs, function(i, item) {
 					if(item['Suburb'] == suburb && !($.inArray(item['Designation'], designations) != -1 ? true : false)){
 						$.each(item['Designation'], function(i, parkDesignation) {
-							if($.inArray(parkDesignation, selectedDesignations) != -1 ? true : false){
+							if($.inArray(parkDesignation, designations) != -1 ? true : false){
 								designations = designations.concat(item['Designation']);
 							}
 						});						
