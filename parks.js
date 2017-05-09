@@ -16,7 +16,9 @@ $('#suburb').select2({
 	]
 });
 
-$('#designation').select2({})
+$('#designation').select2({
+	minimumResultsForSearch: Infinity	
+})
 
 $('#suburb').on('select2:select', function (evt) {
 	var designations = findSuburbDesignations($(this).val());
