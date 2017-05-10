@@ -41,6 +41,10 @@ window.onload = function() {
 			});
 			$('#designation').prop('disabled', false);
 		});
+		
+		$('#suburb').on('select2:unselect', function (e) {
+			findParkDesignations($('#designation').val())
+		});
 
 		$('#designation').on('select2:select', function (e) {
 			findParkDesignations($('#designation').val())
