@@ -153,7 +153,7 @@ window.onload = function() {
 						});
 					}
 				});
-				if(selectedDesignations.length > 0 && match == selectedDesignations.length){
+				if($.isArray(selectedDesignations) && match == selectedDesignations.length){
 					availParks.push(park);
 					addNewPark(park);					
 				}
