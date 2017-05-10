@@ -30,15 +30,8 @@ window.onload = function() {
 		$('#suburb').on('select2:select', function (evt) {
 			suburb = $(this).val();
 			designations = findSuburbDesignations(suburb);
-			$('#designation').find('option').remove().end();
-			$.each(designations, function (i, designation) {
-				$('#designation').append(
-					$('<option>', {
-						value: designation,
-						text : designation
-					})
-				);
-			});
+			
+			
 			$('#designation').prop('disabled', false);
 		});
 		
@@ -109,6 +102,7 @@ window.onload = function() {
 		//Return all designations for parks for a selected suburb
 		function findSuburbDesignations(suburb) {
 			$( "#park-list" ).empty();
+			$('#designation').find('option').remove().end();
 			var designations = [];
 			$.each(parks, function(park, attrs) {
 				console.log('testingggggg');
@@ -130,7 +124,14 @@ window.onload = function() {
 				});
 			});
 
-			return designations;
+			$.each(designations, function (i, designation) {
+				$('#designation').append(
+					$('<option>', {
+						value: designation,
+						text : designation
+					})
+				);
+			});
 		}
 
 		//Return all parks for the selected designations and suburb
