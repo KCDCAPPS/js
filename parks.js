@@ -43,7 +43,7 @@ window.onload = function() {
 			findParkDesignations($('#designation').val())
 		});
 		
-		$('#designation').on('select2:unselect', function (e) {
+		$('#designation').on('select2:change', function (e) {
 			console.log('Removed!!!!!!');
 			suburb = '';
 			findSuburbDesignations('');
