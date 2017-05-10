@@ -38,6 +38,7 @@ window.onload = function() {
 		$('#suburb').on('select2:unselect', function (e) {
 			suburb = '';
 			findSuburbDesignations('')
+			$('#designation').prop('disabled', 'disabled');
 		});
 
 		$('#designation').on('select2:select', function (e) {
