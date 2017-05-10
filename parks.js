@@ -36,17 +36,17 @@ window.onload = function() {
 		});
 		
 		$('#suburb').on('select2:unselect', function (e) {
-			findParkDesignations($('#designation').val())
+			suburb = '';
+			findSuburbDesignations('')
 		});
 
 		$('#designation').on('select2:select', function (e) {
 			findParkDesignations($('#designation').val())
 		});
 		
-		$('#designation').on('select2:change', function (e) {
+		$('#designation').on('select2:unselect', function (e) {
 			console.log('Removed!!!!!!');
-			suburb = '';
-			findSuburbDesignations('');
+			findParkDesignations($('#designation').val());
 		});
 		
 
