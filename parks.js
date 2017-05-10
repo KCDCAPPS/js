@@ -20,7 +20,7 @@ window.onload = function() {
 		});
 
 		$('#designation').select2({
-			placeholder: "Click here to select one or more designations",
+			placeholder: "Select one or more Facilities to filter the parks",
 			tags: true,
 			tokenSeparators: [',', ' ']
 		})
