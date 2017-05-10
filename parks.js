@@ -30,7 +30,7 @@ window.onload = function() {
 		$('#suburb').on('select2:select', function (evt) {
 			suburb = $(this).val();
 			designations = findSuburbDesignations(suburb);
-			$('#designation')find('option').remove().end();
+			$('#designation').find('option').remove().end();
 			$.each(designations, function (i, designation) {
 				$('#designation').append(
 					$('<option>', {
