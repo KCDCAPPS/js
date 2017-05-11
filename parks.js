@@ -1,5 +1,4 @@
 window.onload = function() {
-		console.log('hi');
 		var suburb = '';
 
 		$('#suburb').select2({
@@ -45,7 +44,6 @@ window.onload = function() {
 		});
 		
 		$('#designation').on('select2:unselect', function (e) {
-			console.log('Removed!!!!!!');
 			findParkDesignations($('#designation').val());
 		});
 		
@@ -145,7 +143,6 @@ window.onload = function() {
 			var match = 0;
 			//Loop through parks
 			$.each(parks, function(park, attrs) {
-				console.log(park);
 				//Loop through parks attributes/properties
 				$.each(attrs, function(i, item) {
 					if(item['Suburb'] == suburb){
