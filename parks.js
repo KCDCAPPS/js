@@ -83,6 +83,12 @@ window.onload = function() {
 		}
 		
 		function addNewPark(park, parkAttributes){
+			console.log('parkAttributes test!!!!!!!!!!!!!!');
+			console.log(parkAttributes.Webpage);
+			console.log(parkAttributes[0].Webpage);
+			console.log(parkAttributes['Webpage']);
+			console.log(parkAttributes[0]['Webpage'];
+			
 			var parkList = [
 				'<a href="'+ parkAttributes.Webpage + '">',
 				'<div class="row">',
