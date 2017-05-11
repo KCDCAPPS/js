@@ -2,7 +2,6 @@ window.onload = function() {
 		console.log('hi');
 		var suburb = '';
 
-
 		$('#suburb').select2({
 			placeholder: "Select a Suburb",
 			allowClear: true,
@@ -110,19 +109,11 @@ window.onload = function() {
 			var designations = [];
 			if(suburb != ''){
 				$.each(parks, function(park, attrs) {
-					console.log('testingggggg');
-					console.log(park);
-					console.log(attrs);
 					$.each(attrs, function(i, item) {
 						if(item['Suburb'] == suburb){
 							$.each(item['Designation'], function(ii, parkDesignation) {
-								if($.inArray(parkDesignation, designations) == -1 ? true : false){
-									console.log('looooopy');
-									console.log($.inArray(parkDesignation, designations) == -1 ? true : false);
-									console.log(parkDesignation);
-									console.log($.inArray(parkDesignation, designations));
+								if($.inArray(parkDesignation, designations) == -1 ? true : false)
 									designations.push(parkDesignation);
-								}
 							});	
 							addNewPark(park, attrs[0])						
 						}
@@ -157,8 +148,6 @@ window.onload = function() {
 						$.each(item['Designation'], function(i, parkDesignation) {
 							if($.inArray(parkDesignation, selectedDesignations) != -1 ? true : false){
 								match++;
-								console.log('match');
-								console.log(match);
 							}
 						});
 					}
@@ -169,7 +158,6 @@ window.onload = function() {
 				}
 
 				match = 0;
-				//Build up html park list here.
 
 			});
 			if(!($.isArray(selectedDesignations))){
@@ -177,11 +165,6 @@ window.onload = function() {
 			}
 			
 			applyHoverStyles();
-			console.log('Designations');
-			console.log(designations);
-
-			console.log('Matched Parks');
-			console.log(availParks);
 
 			return parks;
 		}
@@ -193,12 +176,9 @@ window.onload = function() {
 			$('.well').mouseout(function() {
 				$(this).css({'border-color': '#e3e3e3'});
 			});	
+			$('.well').parent.parent('style').remove();
+			console.log('Find the grandfather!');
+			console.log($('.well').parent.parent());
 		}
 
-		/*function containsAll(needles, haystack){
-		  for(var i = 0 , len = needles.length; i < len; i++){
-		     if($.inArray(needles[i], haystack) == -1) return false;
-		  }
-		  return true;
-		}*/
 }
