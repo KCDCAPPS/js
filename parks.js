@@ -176,9 +176,9 @@ window.onload = function() {
 			$('.well').mouseout(function() {
 				$(this).css({'border-color': '#e3e3e3'});
 			});	
-			$('.well').parent.parent('style').remove();
+			$('.well').parent().parent('style').remove();
 			console.log('Find the grandfather!');
-			console.log($('.well').parent.parent());
+			console.log($('.well').parent().parent());
 		}
 
 }
