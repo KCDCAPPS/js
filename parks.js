@@ -98,7 +98,7 @@ window.onload = function() {
 								"<strong>Location: </strong>",
 								"23 Tennis Court Road.",
 								"<abbr title='Phone'>P:</abbr> (123) 456-7890",
-							'</address>'
+							"</address>",
 						"</div>",
 					"</div>",
 				"</div>"
