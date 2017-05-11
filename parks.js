@@ -58,14 +58,16 @@ window.onload = function() {
 					"Base Ball Pitch",
 					"Soccer Field"
 				],
-				"Suburb": "Paraparaumu"
+				"Suburb": "Paraparaumu",
+				"Webpage": "http://stuff.co.nz"
 			}],
 			"Tennis Court Road": [{
 				"Designation": [
 					"Dog Friendly",
 					"Tennis Court"
 				],
-				"Suburb": "Paraparaumu"
+				"Suburb": "Paraparaumu",
+				"Webpage": "http://stuff.co.nz"
 			}],
 			"Waikanae Park": [{
 				"Designation": [
@@ -75,12 +77,14 @@ window.onload = function() {
 					"Rugby Ground",
 					"Soccer Field"
 				],
-				"Suburb": "Waikanae"
+				"Suburb": "Waikanae",
+				"Webpage": "http://stuff.co.nz"
 			}]
 		}
 		
 		function addNewPark(park){
 			var parkList = [
+				'<a href="'+ park['Webpage'] + '">'
 				'<div class="row">',
 					"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 						"<div class='col-md-4'>",
