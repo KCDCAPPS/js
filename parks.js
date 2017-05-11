@@ -87,7 +87,7 @@ window.onload = function() {
 			console.log(parkAttributes.Webpage);
 			console.log(parkAttributes[0].Webpage);
 			console.log(parkAttributes['Webpage']);
-			console.log(parkAttributes[0]['Webpage'];
+			console.log(parkAttributes[0]['Webpage']);
 			
 			var parkList = [
 				'<a href="'+ parkAttributes.Webpage + '">',
