@@ -84,7 +84,7 @@ window.onload = function() {
 		
 		function addNewPark(park){
 			var parkList = [
-				'<a href="'+ park['Webpage'] + '">'
+				'<a href="'+ park['Webpage'] + '">',
 				'<div class="row">',
 					"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 						"<div class='col-md-4'>",
