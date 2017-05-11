@@ -50,13 +50,6 @@ window.onload = function() {
 			findParkDesignations($('#designation').val());
 		});
 		
-		$('.well').mouseover(function() {
-			$(this).css({'border-color': '#009FE3'});
-		});	
-		$('.well').mouseout(function() {
-			$(this).css({'border-color': '#e3e3e3'});
-		});	
-
 		var parks = {
 			"Maclean Park": [{
 				"Designation": [
@@ -141,6 +134,7 @@ window.onload = function() {
 					);
 				});
 			}
+			applyHoverStyles();
 			
 		}
 
@@ -177,7 +171,8 @@ window.onload = function() {
 			if(!($.isArray(selectedDesignations))){
 				findSuburbDesignations(suburb);
 			}
-
+			
+			applyHoverStyles();
 			console.log('Designations');
 			console.log(designations);
 
@@ -185,6 +180,15 @@ window.onload = function() {
 			console.log(availParks);
 
 			return parks;
+		}
+		
+		function applyHoverStyles(){
+			$('.well').mouseover(function() {
+				$(this).css({'border-color': '#009FE3'});
+			});	
+			$('.well').mouseout(function() {
+				$(this).css({'border-color': '#e3e3e3'});
+			});	
 		}
 
 		/*function containsAll(needles, haystack){
