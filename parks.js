@@ -50,6 +50,12 @@ window.onload = function() {
 			findParkDesignations($('#designation').val());
 		});
 		
+		$('.well').mouseover(function() {
+			$(this).css({'border-color': '#009FE3'});
+		});	
+		$('.well').mouseout(function() {
+			$(this).css({'border-color': '#e3e3e3'});
+		});	
 
 		var parks = {
 			"Maclean Park": [{
