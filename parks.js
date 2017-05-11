@@ -169,7 +169,7 @@ window.onload = function() {
 
 			});
 			if(!($.isArray(selectedDesignations))){
-				findSuburbDesignations(suburb)
+				findSuburbDesignations(suburb);
 			}
 
 			console.log('Designations');
