@@ -168,6 +168,9 @@ window.onload = function() {
 				//Build up html park list here.
 
 			});
+			if(!(selectedDesignations.length > 0)){
+				findSuburbDesignations(suburb)
+			}
 
 			console.log('Designations');
 			console.log(designations);
