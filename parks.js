@@ -82,9 +82,9 @@ window.onload = function() {
 			}]
 		}
 		
-		function addNewPark(park){
+		function addNewPark(park, parkAttributes){
 			var parkList = [
-				'<a href="'+ park['Webpage'] + '">',
+				'<a href="'+ parkAttributes.Webpage + '">',
 				'<div class="row">',
 					"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 						"<div class='col-md-4'>",
@@ -124,7 +124,7 @@ window.onload = function() {
 									designations.push(parkDesignation);
 								}
 							});	
-							addNewPark(park)						
+							addNewPark(park, attrs)						
 						}
 					});
 				});
