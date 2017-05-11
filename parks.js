@@ -83,7 +83,7 @@ window.onload = function() {
 		
 		function addNewPark(park, parkAttributes){
 			var parkList = [
-				'<a href="'+ parkAttributes.Webpage + '">',
+				'<a href="'+ parkAttributes.Webpage + ' " target="_blank" >',
 				'<div class="row">',
 					"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 						"<div class='col-md-4'>",
