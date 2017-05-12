@@ -12,6 +12,10 @@ window.onload = function() {
 			{
 			  id: 'Paraparaumu',
 			  text: 'Paraparaumu'
+			},
+			{
+			  id: 'Paekakariki',
+			  text: 'Paekakariki'
 			}
 			// ... more data objects ...
 			]
@@ -75,6 +79,16 @@ window.onload = function() {
 					"Soccer Field"
 				],
 				"Suburb": "Waikanae",
+				"Webpage": "http://stuff.co.nz"
+			}],
+			"Campbell Park": [{
+				"Designation": [
+					"Child Friendly",
+					"Dog Friendly",
+					"Water Park",
+					"Soccer Field"
+				],
+				"Suburb": "Paekakariki",
 				"Webpage": "http://stuff.co.nz"
 			}]
 		}
