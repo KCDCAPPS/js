@@ -258,7 +258,7 @@ window.onload = function() {
 					"Scenic Walk",
 					"Toilets"
 				],
-				"Suburb": "Paraparaumu",
+				"Suburb": "Paekakariki",
 				"Webpage": "http://stuff.co.nz"
 			}],
 			"Tasman Road Playground": [{
