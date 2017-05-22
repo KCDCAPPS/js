@@ -30,16 +30,8 @@ window.onload = function() {
 			  text: 'Paraparaumu Beach'
 			},
 			{
-			  id: 'Otaihanga',
-			  text: 'Otaihanga'
-			},
-			{
 			  id: 'Waikanae Beach',
 			  text: 'Waikanae Beach'
-			},
-			{
-			  id: 'Otaki Beach',
-			  text: 'Otaki Beach'
 			},
 			{
 			  id: 'Otaki',
