@@ -800,7 +800,6 @@ window.onload = function() {
 							"<address style='margin-bottom: 0px;'>",
 								"<strong>Location: </strong>",
 								parkAttributes.Location,
-								"<abbr title='Phone'>P:</abbr> (123) 456-7890",
 							"</address>",
 						"</div>",
 					"</div>",
