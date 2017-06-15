@@ -248,7 +248,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Whyte Street, Paraparaumu Beach",
 				"Webpage": "http://stuff.co.nz",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Kena Kena Park is home to the Paraparaumu Cricket Club. Surrounded by trees, the park is idyllic during the summer months and in the winter is a great open green space. The park has a grass pitch for senior games, cricket nets for practice and Paraparaumu Cricket Club rooms."
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/kenacricket.png"
 			}],
 			"Kotuku Reserve": [{
@@ -311,7 +311,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Marine Parade, Paraparaumu Beach",
 				"Webpage": "http://stuff.co.nz",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Kāpiti has grown up with Maclean Park and it’s a great place for the whole family. Right on the beach and across the road from the local shops and cafes, Maclean Park contains a newly revamped playground, public toilets, a skate park, basketball hoop and plenty of space to have a picnic."
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Macleanpark.jpg"
 			}],
 			"Main Street Playground": [{
@@ -637,7 +637,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Percival Road, Paraparaumu Beach",
 				"Webpage": "http://stuff.co.nz",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Check out the new playground at Te Atiawa Park! Spread across Donovan and Percival Road, Te Atiawa Park is home to several sports codes. Netball and tennis are held of the newly resurfaced Te Atiawa Courts, softball, cricket and junior rugby on the fields, and BMX on the limestone track."
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/teatiawa.png"
 			}],
 			"Tennis Court Road Reserve": [{
@@ -779,7 +779,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Ocean Road, Paraparaumu Beach",
 				"Webpage": "http://stuff.co.nz",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Wesley Knight Park is one of two fully fenced dog parks in Paraparaumu. Double gate access via Ocean Road or Seaview Road, a doggy drinking fountain, plenty of shade and doggy poo bags, this park is a great place to bring your dog for a run around!"
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/wesley.png"
 			}]
 		}
