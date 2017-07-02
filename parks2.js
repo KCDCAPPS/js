@@ -774,10 +774,10 @@ window.onload = function() {
 			}]
 		}
 		
-		function addNewPark(park, parkAttributes){
+		function addNewPark(park, parkAttributes, hide){
 			var parkList = [
 				'<a href="'+ parkAttributes.Webpage + ' " target="_blank" >',
-				'<div class="row">',
+				'<div class="row"', hide ? 'style="display: none"' : '' ,'>',
 					"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 						"<div class='col-md-4'>",
 							"<img style='width: 230px; height: 170px;' ",
@@ -812,7 +812,8 @@ window.onload = function() {
 								if($.inArray(parkDesignation, designations) == -1 ? true : false)
 									designations.push(parkDesignation);
 							});	
-							addNewPark(park, attrs[0])						
+							var hide = i > 4 ? true : false;
+							addNewPark(park, attrs[0], hide)						
 						}
 					});
 				});
