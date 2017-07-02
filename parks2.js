@@ -775,6 +775,8 @@ window.onload = function() {
 		}
 		
 		function addNewPark(park, parkAttributes, hide){
+			console.log('hide');
+			console.log(hide);
 			var parkList = [
 				'<a href="'+ parkAttributes.Webpage + ' " target="_blank" >',
 				'<div class="row"', hide ? 'style="display: none"' : '' ,'>',
