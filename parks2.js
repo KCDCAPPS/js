@@ -807,6 +807,7 @@ window.onload = function() {
 			$('#designation').find('option').remove().end();
 			var designations = [];
 			if(suburb != ''){
+				var count = 0;
 				$.each(parks, function(park, attrs) {
 					$.each(attrs, function(i, item) {
 						if(item['Suburb'] == suburb){
@@ -814,10 +815,11 @@ window.onload = function() {
 								if($.inArray(parkDesignation, designations) == -1 ? true : false)
 									designations.push(parkDesignation);
 							});	
-							var hide = park > 4 ? true : false;
+							var hide = count > 4 ? true : false;
 							addNewPark(park, attrs[0], hide)						
 						}
 					});
+					count++;
 				});
 
 				$.each(designations, function (i, designation) {
