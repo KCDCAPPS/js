@@ -816,10 +816,11 @@ window.onload = function() {
 									designations.push(parkDesignation);
 							});	
 							var hide = count > 4 ? true : false;
-							addNewPark(park, attrs[0], hide)						
+							addNewPark(park, attrs[0], hide)	
+							count++;							
 						}
 					});
-					count++;
+					
 				});
 
 				$.each(designations, function (i, designation) {
