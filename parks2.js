@@ -814,7 +814,7 @@ window.onload = function() {
 								if($.inArray(parkDesignation, designations) == -1 ? true : false)
 									designations.push(parkDesignation);
 							});	
-							var hide = i > 4 ? true : false;
+							var hide = park > 4 ? true : false;
 							addNewPark(park, attrs[0], hide)						
 						}
 					});
