@@ -774,28 +774,35 @@ window.onload = function() {
 			}]
 		}
 		
+		$('#parks-btn').on('click', function (e) {
+			console.log('clicked');
+			$("#park-list").children().show();
+
+		})
+		
 		function addNewPark(park, parkAttributes, hide){
 			console.log('hide');
 			console.log(hide);
 			var parkList = [
-				'<a href="'+ parkAttributes.Webpage + ' " target="_blank" >',
-				'<div class="row"', hide ? 'style="display: none"' : '' ,'>',
-					"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
-						"<div class='col-md-4'>",
-							"<img style='width: 230px; height: 170px;' ",
-							"src='" + parkAttributes.Image + "' ",
-							"alt='...' class='img-thumbnail'>",
-						"</div>",
-						"<div class='col-md-8'>",
-							"<h2 style='margin-top: 10px;'>" + park + "</h2>",
-							"<p>" + parkAttributes.Blurb + "</p>",
-							"<address style='margin-bottom: 0px;'>",
-								"<strong>Location: </strong>",
-								parkAttributes.Location,
-							"</address>",
+				'<a href="'+ parkAttributes.Webpage + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
+					'<div class="row">',
+						"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
+							"<div class='col-md-4'>",
+								"<img style='width: 230px; height: 170px;' ",
+								"src='" + parkAttributes.Image + "' ",
+								"alt='...' class='img-thumbnail'>",
+							"</div>",
+							"<div class='col-md-8'>",
+								"<h2 style='margin-top: 10px;'>" + park + "</h2>",
+								"<p>" + parkAttributes.Blurb + "</p>",
+								"<address style='margin-bottom: 0px;'>",
+									"<strong>Location: </strong>",
+									parkAttributes.Location,
+								"</address>",
+							"</div>",
 						"</div>",
 					"</div>",
-				"</div>"
+				"</a>"
 			];
 
 			$( "#park-list" ).append( parkList.join(' ') );
@@ -816,6 +823,8 @@ window.onload = function() {
 									designations.push(parkDesignation);
 							});	
 							var hide = count > 4 ? true : false;
+							if(count > 4)
+								$('#park-button').show();
 							addNewPark(park, attrs[0], hide)	
 							count++;							
 						}
