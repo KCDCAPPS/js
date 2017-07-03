@@ -806,7 +806,7 @@ window.onload = function() {
 						$('#parks-btn').html('Show Less...')
 					}
 					visibleParks++;
-					return true;
+					return false;
 				}
 				visibleParks++; 
 			});
