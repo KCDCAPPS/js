@@ -775,6 +775,10 @@ window.onload = function() {
 			}]
 		}
 		
+		$.fn.gotoAnchor = function(anchor) {
+			location.href = this.selector;
+		}
+		
 		$('#parks-btn').on('click', function (e, t) {
 			console.log('clicked');
 			
@@ -788,6 +792,7 @@ window.onload = function() {
 					visibleParks = 0;
 				});
 				$('#parks-btn').html('Show More...')
+				$('#parks-end').gotoAnchor();
 			} else {
 				$('.park-item').each(function(i) {
 					var element = $(this);
@@ -835,7 +840,7 @@ window.onload = function() {
 
 			$( "#park-list" ).append( parkList.join(' ') );
 		}
-		
+	
 		//Return all designations for parks for a selected suburb
 		function findSuburbDesignations(suburb) {
 			var visibleParks = 0;
