@@ -852,8 +852,12 @@ window.onload = function() {
 									designations.push(parkDesignation);
 							});	
 							var hide = count > 4 ? true : false;
-							if(count > 4)
+							if(count > 4){
 								$('#parks-btn').show();
+							} else{
+								$('#parks-btn').hide();
+							}
+								
 							addNewPark(park, attrs[0], hide)	
 							count++;							
 						}
