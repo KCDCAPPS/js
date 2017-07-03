@@ -815,13 +815,11 @@ window.onload = function() {
 					if(element.css('display') == 'none' && count < 5) {
 						element.show();
 						count++
-						visibleParks++;
 						if(i == $('.park-item').length -1){
 							$('#parks-btn').html('Show Less...')
+							var visibleParks = i + 1;
 						}	
-					} else {
-						visibleParks++;
-					}						 
+					} 						 
 				});
 			}
 
