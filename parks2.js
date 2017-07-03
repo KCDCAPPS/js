@@ -804,7 +804,7 @@ window.onload = function() {
 						}
 						return true;
 					}
-					visibleParks++;
+					visibleParks = 0;
 				});
 				
 			} else {
