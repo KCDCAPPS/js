@@ -776,7 +776,7 @@ window.onload = function() {
 		
 		$('#parks-btn').on('click', function (e) {
 			console.log('clicked');
-			$("#park-list").children().show();
+			//$("#park-list").children().show();
 			var lastVisibleChild = $("#park-list").find("a:visible:last");
 			var count = 0;
 			$("#park-list a").not(":visible").each(function(i) {
