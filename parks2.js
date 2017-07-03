@@ -782,8 +782,6 @@ window.onload = function() {
 		}
 		
 		$('#parks-btn').on('click', function (e, t) {
-			console.log('clicked');
-			
 			var count = 0;
 			if(visibleParks == $('.park-item').length){
 				$('.park-item').each(function(i) {
@@ -810,14 +808,9 @@ window.onload = function() {
 					} 						 
 				});
 			}
-
-			console.log('visibleParks');
-			console.log(visibleParks);	
 		})
 		
 		function addNewPark(park, parkAttributes, hide){
-			console.log('hide');
-			console.log(hide);
 			var parkList = [
 				'<a class="park-item" href="'+ parkAttributes.Webpage + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
 					'<div class="row">',
@@ -858,14 +851,8 @@ window.onload = function() {
 								if($.inArray(parkDesignation, designations) == -1 ? true : false)
 									designations.push(parkDesignation);
 							});	
-							var hide = count > 4 ? true : false;
-							if(count > 4){
-								$('#parks-btn').show();
-							} else{
-								$('#parks-btn').hide();
-							}
-								
-							addNewPark(park, attrs[0], hide)	
+							
+							hideExcessParks(park, attrs, count)
 							count++;							
 						}
 					});
@@ -890,6 +877,7 @@ window.onload = function() {
 			var availParks = [];
 			var match = 0;
 			var visibleParks = 0;
+			var count = 0;
 			//Loop through parks
 			$.each(parks, function(park, attrs) {
 				//Loop through parks attributes/properties
@@ -905,7 +893,8 @@ window.onload = function() {
 				});
 				if($.isArray(selectedDesignations) && match == selectedDesignations.length){
 					availParks.push(park);
-					addNewPark(park, attrs[0]);					
+					hideExcessParks(park, attrs, count)	
+					count++					
 				}
 
 				match = 0;
@@ -928,6 +917,17 @@ window.onload = function() {
 				$(this).css({'border-color': '#e3e3e3'});
 			});	
 			$('.well').parent().parent().css({ 'color': 'inherit' });
+		}
+		
+		function hideExcessParks(park, attrs, count){
+			var hide = count > 4 ? true : false;
+			if(count > 4){
+				$('#parks-btn').show();
+			} else{
+				$('#parks-btn').hide();
+			}
+				
+			addNewPark(park, attrs[0], hide)	
 		}
 		
 }
