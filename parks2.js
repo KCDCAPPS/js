@@ -1,5 +1,6 @@
 window.onload = function() {
 		var suburb = '';
+		var visibleParks = 0;
 
 		$('#suburb').select2({
 			placeholder: "Select a Suburb",
@@ -775,24 +776,10 @@ window.onload = function() {
 		}
 		
 		
-		var visibleParks = 0;
+		
 		$('#parks-btn').on('click', function (e, t) {
 			console.log('clicked');
-			//$("#park-list").children().show();
-
-			/*$("#park-list a").not(":visible").each(function(i) {
-			   if(count <= 5){
-				   $(this).show();
-					count++
-			   }
-			});*/
-			/*var count = 0;
-			$("#park-list a").each(function(i) {
-			   if(count <= 5 && $(this).not(':visible')){
-				   $(this).show();
-					count++
-			   }
-			});*/
+			
 			var count = 0;
 			if(visibleParks == $('.park-item').length){
 				$('.park-item').each(function(i) {
@@ -806,7 +793,6 @@ window.onload = function() {
 					}
 					visibleParks = 0;
 				});
-				
 			} else {
 				$('.park-item').each(function(i) {
 					var element = $(this);
@@ -817,7 +803,7 @@ window.onload = function() {
 						count++
 						if(i == $('.park-item').length -1){
 							$('#parks-btn').html('Show Less...')
-							var visibleParks = i + 1;
+							visibleParks = i + 1;
 						}	
 					} 						 
 				});
