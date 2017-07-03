@@ -775,7 +775,7 @@ window.onload = function() {
 		}
 		
 		
-		var visibleParks = 
+		var visibleParks = 0;
 		$('#parks-btn').on('click', function (e, t) {
 			console.log('clicked');
 			//$("#park-list").children().show();
@@ -794,6 +794,8 @@ window.onload = function() {
 					count++
 			   }
 			});*/
+			console.log('visibleParks');
+			console.log(visibleParks);
 			if(visibleParks != $('.park-item').length){
 				var count = 0;
 				$('.park-item').each(function(i) {
