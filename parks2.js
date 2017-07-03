@@ -812,7 +812,7 @@ window.onload = function() {
 			console.log('visibleParks');
 			console.log(visibleParks);
 			
-			/*if(visibleParks == $('.park-item').length){
+			if(visibleParks == $('.park-item').length){
 				$('.park-item').each(function(i) {
 					var element = $(this);
 					if(i >= 5) {
@@ -825,7 +825,7 @@ window.onload = function() {
 					visibleParks++;
 				});
 				
-			}*/
+			}
 			
 		})
 		
