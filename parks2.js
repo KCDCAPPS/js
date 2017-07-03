@@ -775,8 +775,10 @@ window.onload = function() {
 			}]
 		}
 		
+		//Scroll up to help out mobile users
 		$.fn.gotoAnchor = function(anchor) {
-			location.href = this.selector;
+			//location.href = this.selector;
+			$(document).scrollTop( $("#parks-end").offset().top - 100); 
 		}
 		
 		$('#parks-btn').on('click', function (e, t) {
