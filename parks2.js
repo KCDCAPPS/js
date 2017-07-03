@@ -786,13 +786,10 @@ window.onload = function() {
 					var element = $(this);
 					if(i >= 5) {
 						element.css('display', 'none')
-						if(i == $('.park-item').length){
-							$('#parks-btn').html('Show More...')
-						}
-						return true;
 					}
 					visibleParks = 0;
 				});
+				$('#parks-btn').html('Show More...')
 			} else {
 				$('.park-item').each(function(i) {
 					var element = $(this);
