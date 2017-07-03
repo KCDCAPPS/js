@@ -774,7 +774,9 @@ window.onload = function() {
 			}]
 		}
 		
-		$('#parks-btn').on('click', function (e) {
+		
+		var visibleParks = 
+		$('#parks-btn').on('click', function (e, t) {
 			console.log('clicked');
 			//$("#park-list").children().show();
 			var lastVisibleChild = $("#park-list").find("a:visible:last");
@@ -792,14 +794,35 @@ window.onload = function() {
 					count++
 			   }
 			});*/
-			var count = 0;
-			$('.park-item').each(function(i) {
-				var element = $(this);
-				if(element.css('display') == 'none' && count < 5) {
-					element.show();
-					count++
-				}
-			});
+			if(visibleParks != $('.park-item').length){
+				var count = 0;
+				$('.park-item').each(function(i) {
+					var element = $(this);
+					if(element.css('display') == 'none' && count < 5) {
+						element.show();
+						count++
+						if(i == $('.park-item').length){
+							$('#parks-btn').html('Show Less...')
+						}
+						return true;
+					}
+					visibleParks++;
+				});
+			} else {
+				$('.park-item').each(function(i) {
+					var element = $(this);
+					if(i >= 5) {
+						element.css('display', 'none')
+						if(i == $('.park-item').length){
+							$('#parks-btn').html('Show More...')
+						}
+						return true;
+					}
+					visibleParks++;
+				});
+				
+			}
+			
 		})
 		
 		function addNewPark(park, parkAttributes, hide){
