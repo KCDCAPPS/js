@@ -785,12 +785,20 @@ window.onload = function() {
 					count++
 			   }
 			});*/
-			var count = 0;
+			/*var count = 0;
 			$("#park-list a").each(function(i) {
 			   if(count <= 5 && $(this).not(':visible')){
 				   $(this).show();
 					count++
 			   }
+			});*/
+			var count = 0;
+			$('.park-item').each(function(i) {
+				var element = $(this);
+				if(element.css('display') == 'none' && count <= 5) {
+					element.show();
+					count++
+				}
 			});
 		})
 		
