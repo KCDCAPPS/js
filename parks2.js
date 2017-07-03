@@ -777,8 +777,8 @@ window.onload = function() {
 		
 		//Scroll up to help out mobile users
 		$.fn.gotoAnchor = function(anchor) {
-			//location.href = this.selector;
-			$(document).scrollTop( $("#parks-end").offset().top - 100); 
+			//location.href = this.selector; // this doesn't go high enough but is more effecient
+			$(document).scrollTop( $("#parks-end").offset().top - 200); 
 		}
 		
 		$('#parks-btn').on('click', function (e, t) {
