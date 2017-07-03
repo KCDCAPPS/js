@@ -775,8 +775,6 @@ window.onload = function() {
 			}]
 		}
 		
-		
-		
 		$('#parks-btn').on('click', function (e, t) {
 			console.log('clicked');
 			
@@ -855,7 +853,7 @@ window.onload = function() {
 							});	
 							var hide = count > 4 ? true : false;
 							if(count > 4)
-								$('#park-button').show();
+								$('#parks-btn').show();
 							addNewPark(park, attrs[0], hide)	
 							count++;							
 						}
