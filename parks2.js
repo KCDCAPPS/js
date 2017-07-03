@@ -779,8 +779,15 @@ window.onload = function() {
 			//$("#park-list").children().show();
 			var lastVisibleChild = $("#park-list").find("a:visible:last");
 			var count = 0;
-			$("#park-list a").not(":visible").each(function(i) {
+			/*$("#park-list a").not(":visible").each(function(i) {
 			   if(count <= 5){
+				   $(this).show();
+					count++
+			   }
+			});*/
+			var count = 0;
+			$("#park-list a").each(function(i) {
+			   if(count <= 5 && $(this).not(':visible')){
 				   $(this).show();
 					count++
 			   }
