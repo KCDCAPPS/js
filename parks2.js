@@ -794,22 +794,18 @@ window.onload = function() {
 			   }
 			});*/
 			
-
-			var visibleParks = 0;
 			var count = 0;
 			$('.park-item').each(function(i) {
 				var element = $(this);
 				var shown = false;
 				if(element.css('display') == 'none' && count < 5) {
 					element.show();
-					shown = true;
-					visibleParks++;
 					count++
 					if(i == $('.park-item').length){
 						$('#parks-btn').html('Show Less...')
 					}	
 				}
-				if(!shown)
+				if(element.css('display') != 'none')
 					visibleParks++; 
 			});
 
