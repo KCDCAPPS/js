@@ -793,7 +793,7 @@ window.onload = function() {
 					count++
 			   }
 			});*/
-			
+			var visibleParks = 0;
 			var count = 0;
 			$('.park-item').each(function(i) {
 				var element = $(this);
