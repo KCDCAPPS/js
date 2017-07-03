@@ -775,7 +775,7 @@ window.onload = function() {
 		}
 		
 		
-		
+		var visibleParks = 0;
 		$('#parks-btn').on('click', function (e, t) {
 			console.log('clicked');
 			//$("#park-list").children().show();
@@ -793,8 +793,22 @@ window.onload = function() {
 					count++
 			   }
 			});*/
-			var visibleParks = 0;
 			var count = 0;
+			if(visibleParks == $('.park-item').length){
+				$('.park-item').each(function(i) {
+					var element = $(this);
+					if(i >= 5) {
+						element.css('display', 'none')
+						if(i == $('.park-item').length){
+							$('#parks-btn').html('Show More...')
+						}
+						return true;
+					}
+					visibleParks++;
+				});
+				
+			}
+			
 			$('.park-item').each(function(i) {
 				var element = $(this);
 				var shown = false;
@@ -812,20 +826,7 @@ window.onload = function() {
 			console.log('visibleParks');
 			console.log(visibleParks);
 			
-			if(visibleParks == $('.park-item').length){
-				$('.park-item').each(function(i) {
-					var element = $(this);
-					if(i >= 5) {
-						element.css('display', 'none')
-						if(i == $('.park-item').length){
-							$('#parks-btn').html('Show More...')
-						}
-						return true;
-					}
-					visibleParks++;
-				});
-				
-			}
+			
 			
 		})
 		
@@ -859,6 +860,7 @@ window.onload = function() {
 		
 		//Return all designations for parks for a selected suburb
 		function findSuburbDesignations(suburb) {
+			var visibleParks = 0;
 			$( "#park-list" ).empty();
 			$('#designation').find('option').remove().end();
 			var designations = [];
@@ -891,7 +893,6 @@ window.onload = function() {
 				});
 			}
 			applyHoverStyles();
-			
 		}
 
 		//Return all parks for the selected designations and suburb
@@ -899,6 +900,7 @@ window.onload = function() {
 			$( "#park-list" ).empty();
 			var availParks = [];
 			var match = 0;
+			var visibleParks = 0;
 			//Loop through parks
 			$.each(parks, function(park, attrs) {
 				//Loop through parks attributes/properties
