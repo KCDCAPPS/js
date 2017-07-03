@@ -799,6 +799,7 @@ window.onload = function() {
 			var count = 0;
 			$('.park-item').each(function(i) {
 				var element = $(this);
+				
 				if(element.css('display') == 'none' && count < 5) {
 					element.show();
 					count++
@@ -806,7 +807,7 @@ window.onload = function() {
 						$('#parks-btn').html('Show Less...')
 					}
 					visibleParks++;
-					return false;
+					return;
 				}
 				visibleParks++; 
 			});
