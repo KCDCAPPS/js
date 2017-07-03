@@ -811,23 +811,22 @@ window.onload = function() {
 				$('.park-item').each(function(i) {
 					var element = $(this);
 					var shown = false;
+					visibleParks = 0;
 					if(element.css('display') == 'none' && count < 5) {
 						element.show();
 						count++
+						visibleParks++;
 						if(i == $('.park-item').length){
 							$('#parks-btn').html('Show Less...')
 						}	
-					}
-					if(element.css('display') != 'none')
-						visibleParks++; 
+					} else {
+						visibleParks++;
+					}						 
 				});
 			}
 
 			console.log('visibleParks');
-			console.log(visibleParks);
-			
-			
-			
+			console.log(visibleParks);	
 		})
 		
 		function addNewPark(park, parkAttributes, hide){
