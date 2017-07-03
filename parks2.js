@@ -816,7 +816,7 @@ window.onload = function() {
 						element.show();
 						count++
 						visibleParks++;
-						if(i -1 == $('.park-item').length){
+						if(i == $('.park-item').length -1){
 							$('#parks-btn').html('Show Less...')
 						}	
 					} else {
