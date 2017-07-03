@@ -839,6 +839,7 @@ window.onload = function() {
 		//Return all designations for parks for a selected suburb
 		function findSuburbDesignations(suburb) {
 			var visibleParks = 0;
+			$('#parks-btn').html('Show More...')
 			$( "#park-list" ).empty();
 			$('#designation').find('option').remove().end();
 			var designations = [];
@@ -877,6 +878,7 @@ window.onload = function() {
 			var availParks = [];
 			var match = 0;
 			var visibleParks = 0;
+			$('#parks-btn').html('Show More...')
 			var count = 0;
 			//Loop through parks
 			$.each(parks, function(park, attrs) {
