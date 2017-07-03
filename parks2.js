@@ -808,7 +808,7 @@ window.onload = function() {
 					visibleParks++;
 					return true;
 				}
-				visibleParks++;
+				visibleParks++; 
 			});
 
 			console.log('visibleParks');
