@@ -807,21 +807,21 @@ window.onload = function() {
 					visibleParks++;
 				});
 				
+			} else {
+				$('.park-item').each(function(i) {
+					var element = $(this);
+					var shown = false;
+					if(element.css('display') == 'none' && count < 5) {
+						element.show();
+						count++
+						if(i == $('.park-item').length){
+							$('#parks-btn').html('Show Less...')
+						}	
+					}
+					if(element.css('display') != 'none')
+						visibleParks++; 
+				});
 			}
-			
-			$('.park-item').each(function(i) {
-				var element = $(this);
-				var shown = false;
-				if(element.css('display') == 'none' && count < 5) {
-					element.show();
-					count++
-					if(i == $('.park-item').length){
-						$('#parks-btn').html('Show Less...')
-					}	
-				}
-				if(element.css('display') != 'none')
-					visibleParks++; 
-			});
 
 			console.log('visibleParks');
 			console.log(visibleParks);
