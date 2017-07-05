@@ -70,6 +70,7 @@ window.onload = function() {
 			suburb = '';
 			findSuburbDesignations('')
 			$('#designation').prop('disabled', 'disabled');
+			$('#parks-btn').hide();
 		});
 
 		$('#designation').on('select2:select', function (e) {
