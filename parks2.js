@@ -815,7 +815,7 @@ window.onload = function() {
 		
 		function addNewPark(park, parkAttributes, hide){
 			
-			parkUrl = (parkAttributes.Webpage.indexOf('http') == -1 ||  parkAttributes.Webpage.indexOf('www') == -1 ? domain + parkAttributes.Webpage : parkAttributes.Webpage;
+			parkUrl = (parkAttributes.Webpage.indexOf('http') == -1 ||  parkAttributes.Webpage.indexOf('www') == -1) ? domain + parkAttributes.Webpage : parkAttributes.Webpage;
 			console.log(parkUrl);
 			
 			var parkList = [
