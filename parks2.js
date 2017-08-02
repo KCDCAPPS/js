@@ -815,8 +815,8 @@ window.onload = function() {
 		
 		function addNewPark(park, parkAttributes, hide){
 			
-			var parkUrl = (parkAttributes.Webpage.indexOf('http') != -1) ? domain + parkAttributes.Webpage : parkAttributes.Webpage;
-			console.log(parkURL);
+			parkUrl = (parkAttributes.Webpage.indexOf('http') != -1) ? domain + parkAttributes.Webpage : parkAttributes.Webpage;
+			console.log(parkUrl);
 			
 			var parkList = [
 				'<a class="park-item" href="'+ parkUrl + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
