@@ -814,8 +814,12 @@ window.onload = function() {
 		})
 		
 		function addNewPark(park, parkAttributes, hide){
+			
+			var parkUrl = (parkAttributes.Webpage.indexOf('http') != -1) ? domain + parkAttributes.Webpage : parkAttributes.Webpage;
+			console.log(parkURL);
+			
 			var parkList = [
-				'<a class="park-item" href="'+ parkAttributes.Webpage.indexOf('http') != -1 ? domain + parkAttributes.Webpage : parkAttributes.Webpage + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
+				'<a class="park-item" href="'+ parkUrl + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
 					'<div class="row">',
 						"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 							"<div class='col-md-4'>",
