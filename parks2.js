@@ -1,7 +1,7 @@
 window.onload = function() {
 		var suburb = '';
 		var visibleParks = 0;
-		var domain = "http://uat.kapiticoast.govt.nz.testwin.gdmedia.tv/";
+		var domain = "http://www.uat.kapiticoast.govt.nz.testwin.gdmedia.tv/";
 
 		$('#suburb').select2({
 			placeholder: "Select a Suburb",
