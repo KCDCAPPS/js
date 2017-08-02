@@ -1,7 +1,7 @@
 window.onload = function() {
 		var suburb = '';
 		var visibleParks = 0;
-		var domain = 'http://uat.kapiticoast.govt.nz.testwin.gdmedia.tv/';
+		var domain = "http://uat.kapiticoast.govt.nz.testwin.gdmedia.tv/";
 
 		$('#suburb').select2({
 			placeholder: "Select a Suburb",
@@ -815,7 +815,7 @@ window.onload = function() {
 		
 		function addNewPark(park, parkAttributes, hide){
 			var parkList = [
-				'<a class="park-item" href="'+ parkAttributes.Webpage.indexOf('http') != -1 || parkAttributes.Webpage.indexOf('www') != -1 ? domain + parkAttributes.Webpage : parkAttributes.Webpage + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
+				'<a class="park-item" href="'+ parkAttributes.Webpage.indexOf('http') != -1 ? domain + parkAttributes.Webpage : parkAttributes.Webpage + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
 					'<div class="row">',
 						"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 							"<div class='col-md-4'>",
