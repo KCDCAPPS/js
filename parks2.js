@@ -789,7 +789,7 @@ window.onload = function() {
 			"Wesley Knight Park": [{
 				"Designation": [
 					"Greenspace",
-					"Dog off leash area"
+					"Dog off leash"
 				],
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Ocean Road, Paraparaumu Beach",
