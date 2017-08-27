@@ -325,7 +325,7 @@ window.onload = function() {
 				"Location": "Marine Parade, Paraparaumu Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/maclean-park/",
 				"Blurb": "Kāpiti has grown up with Maclean Park and it’s a great place for the whole family. Right on the beach and across the road from the local shops and cafes, Maclean Park contains a newly revamped playground, public toilets, a skate park, basketball hoop and plenty of space to have a picnic.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Macleanpark.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Main Street Playground": [{
 				"Designation": [
@@ -662,7 +662,7 @@ window.onload = function() {
 				"Location": "Percival Road, Paraparaumu Beach",
 				"Webpage": "Our-Community/Parks-and-Recreation/parks/te-atiawa-park/",
 				"Blurb": "Check out the new playground at Te Ātiawa Park! Spread across Donovan and Percival Roads, Te Ātiawa Park is home to several sports codes. Netball and tennis are held on the newly resurfaced Te Ātiawa Courts, softball, cricket and junior rugby on the fields, and BMX on the limestone track.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/teatiawa.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Tennis Court Road Reserve": [{
 				"Designation": [
@@ -790,7 +790,7 @@ window.onload = function() {
 					"Playground",
 					"Sports Grounds"
 				],
-				"Suburb": "Raumati Beach",
+				"Suburb": "Raumati",
 				"Location": "Weka Road, Raumati Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/weka-park",
 				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
