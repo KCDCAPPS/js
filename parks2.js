@@ -107,7 +107,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Jade Lane, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#awatea",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Awatea Lakes spreads between Awatea Avenue, Waterstone Avenue and Jade Lane. Lots of native planting make the small walk around around the pond a nice escape. Feed the ducks and let the kids have a play on the playground that is set back and lowered from the road.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Jadesmall.png"
 			}],
 			"Campbell Park": [{
@@ -137,7 +137,7 @@ window.onload = function() {
 				"Suburb": "Te Horo",
 				"Location": "Dixie Street, Te Horo",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Dixie",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon..",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Eatwell Reserve": [{
@@ -171,7 +171,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Ferndale Drive, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#ferndale",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Gandalf Cresent": [{
@@ -193,7 +193,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Greenwood Boulevard, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#greenwood",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Haruatai Park": [{
@@ -223,7 +223,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Hookway Grove, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#hookway",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Hookway Grove Reserve is a playground nestled amongst native bush on Hookway Grove. The equipment is suited for all ages and a picnic table allows you to relax and enjoy the beautiful surroundings. Across the creek at the back of the reserve is a track to Kaitawa Reserve.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Hookwaysmall.png"
 			}],
 			"Jim Cooke Memorial Park": [{
@@ -235,7 +235,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Nimmo Avenue, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Jim",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Kaitawa Reserve": [{
@@ -299,7 +299,7 @@ window.onload = function() {
 				"Suburb": "Raumati South",
 				"Location": "Leinster Avenue, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Leinster",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Set back from the road for peace of mind, Leinster Avenue Reserve is a playground suited to smaller children and toddlers. Swings and small climbing structures encourage exploration while not being too high off the ground! A nice quiet spot tucked away in Raumati South.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Lorna Irene Drive Reserve": [{
@@ -350,7 +350,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Manawa Avenue, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Manawa",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Marere Avenue Reserve": [{
@@ -363,7 +363,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Atarau Grove, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Marere",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Marine Gardens": [{
@@ -378,7 +378,7 @@ window.onload = function() {
 				"Suburb": "Raumati",
 				"Location": "Garden Road, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/marine-gardens",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Matai Road Reserve": [{
@@ -390,7 +390,7 @@ window.onload = function() {
 				"Suburb": "Raumati",
 				"Location": "Matai Road, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Matai",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Matai Street Reserve": [{
@@ -416,7 +416,7 @@ window.onload = function() {
 				"Suburb": "Raumati South",
 				"Location": "Menin Road, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Matthews",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Matthews Park’s close proximity Kāpiti College means that it is well used not only for sport but as both a walking route and as a place to kick a ball around. Off Menin Road you will see the club rooms for the Kāpiti Bears Rugby League Club, a playground and a keyhole basketball court.  ",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Matuhi Street Reserve": [{
@@ -428,7 +428,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Matuhi Street, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Matuhi",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Mazengarb Reserve": [{
@@ -442,7 +442,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Scaifie Drive, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/mazengarb-reserve",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Memorial Gardens": [{
@@ -474,7 +474,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Aōtaki Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#dog",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Otaihanga Domain": [{
@@ -500,7 +500,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Domain Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki-domain",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Ōtaki i-Site Playground": [{
@@ -513,7 +513,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "State Highway 1, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#isite",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Otaraua Park": [{
@@ -537,7 +537,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Tutanekai Street, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/paraparaumu-domain/",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Pharazyn Avenue Playground": [{
@@ -550,7 +550,7 @@ window.onload = function() {
 				"Suburb": "Waikanae Beach",
 				"Location": "Pharazyn Avenue, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Pharazyn",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Pohutukawa Park": [{
@@ -564,7 +564,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Makarini Street, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Pohutukawa",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Pohutusmall.png"
 			}],
 			"Queen Elizabeth Park": [{
@@ -588,7 +588,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Regent Drive, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#regent",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Regentsmall.png"
 			}],
 			"Sams Way Reserve": [{
@@ -609,7 +609,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "San Vito Place, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#sanvito",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Sanvitosmall.png"
 			}],
 			"Shotover Grove Reserve": [{
@@ -619,8 +619,8 @@ window.onload = function() {
 				],
 				"Suburb": "Waikanae",
 				"Location": "He Awa Cresent, Waikanae",
-				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/shotover-grove-reserve/",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/shotover",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Simpson Cresent Reserve": [{
@@ -632,7 +632,7 @@ window.onload = function() {
 				"Suburb": "Raumati",
 				"Location": "Simpson Cresent, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Simpson",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Tasman Road Reserve": [{
@@ -644,7 +644,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Tasman Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Tasman",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Te Atiawa Park": [{
@@ -678,7 +678,7 @@ window.onload = function() {
 				"Suburb": "Raumati South",
 				"Location": "Tennis Court Road, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/tennis-court-road-reserve",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Tilley Road Reserve": [{
@@ -699,7 +699,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Sue Avenue, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Totara",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Victor Weggery Reserve": [{
@@ -713,7 +713,7 @@ window.onload = function() {
 				"Suburb": "Waikanae Beach",
 				"Location": "Queens Road, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#victor",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Waikanae North": [{
@@ -725,7 +725,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Waipunahau Road, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Waikanae",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "This reserve is in an up and coming neighbourhood. Newly planted trees will soon grow to create a beautiful space. Charles Flemming Retirement Village is right next door making it a great place for a quiet walk and a great spot to bring the grandkids for a swing or have a picnic.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Waikanae Park": [{
@@ -742,7 +742,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Park Avenue, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae-park",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Waikanae Shops Playground": [{
@@ -752,7 +752,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Mahara Place, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Waikanaeshops",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Waikanae War Memorial": [{
@@ -766,7 +766,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Pehi Kupa Street, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#war",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Waimeha Domain": [{
@@ -780,7 +780,7 @@ window.onload = function() {
 				"Suburb": "Waikanae Beach",
 				"Location": "Tutere Street, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waimeha-domain",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Weka Park": [{
@@ -793,7 +793,7 @@ window.onload = function() {
 				"Suburb": "Raumati",
 				"Location": "Weka Road, Raumati Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/weka-park",
-				"Blurb": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+				"Blurb": "Information about this park is coming soon.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Wesley Knight Park": [{
