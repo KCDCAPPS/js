@@ -351,7 +351,7 @@ window.onload = function() {
 				"Location": "Manawa Avenue, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Manawa",
 				"Blurb": "Information about this park is coming soon.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/manawasmall.png"
 			}],
 			"Marere Avenue Reserve": [{
 				"Designation": [
