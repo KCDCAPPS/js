@@ -363,7 +363,7 @@ window.onload = function() {
 				"Location": "Atarau Grove, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Marere",
 				"Blurb": "Information about this park is coming soon.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mareresmall.png"
 			}],
 			"Marine Gardens": [{
 				"Designation": [
@@ -537,7 +537,7 @@ window.onload = function() {
 				"Location": "Tutanekai Street, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/paraparaumu-domain/",
 				"Blurb": "Information about this park is coming soon.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/pramsmall.png"
 			}],
 			"Pharazyn Avenue Playground": [{
 				"Designation": [
@@ -661,7 +661,7 @@ window.onload = function() {
 				"Location": "Percival Road, Paraparaumu Beach",
 				"Webpage": "Our-Community/Parks-and-Recreation/parks/te-atiawa-park/",
 				"Blurb": "Check out the new playground at Te Ātiawa Park! Spread across Donovan and Percival Roads, Te Ātiawa Park is home to several sports codes. Netball and tennis are held on the newly resurfaced Te Ātiawa Courts, softball, cricket and junior rugby on the fields, and BMX on the limestone track.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/teatiawasmall.png"
 			}],
 			"Tennis Court Road Reserve": [{
 				"Designation": [
@@ -780,7 +780,7 @@ window.onload = function() {
 				"Location": "Tutere Street, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waimeha-domain",
 				"Blurb": "Information about this park is coming soon.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/waimehasmall.png"
 			}],
 			"Weka Park": [{
 				"Designation": [
