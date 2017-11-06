@@ -132,13 +132,12 @@ window.onload = function() {
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
-					"Sports Grounds"
 				],
 				"Suburb": "Te Horo",
 				"Location": "Dixie Street, Te Horo",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Dixie",
 				"Blurb": "Information about this park is coming soon..",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/dixiesmall.png"
 			}],
 			"Eatwell Reserve": [{
 				"Designation": [
@@ -551,7 +550,7 @@ window.onload = function() {
 				"Location": "Pharazyn Avenue, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Pharazyn",
 				"Blurb": "Information about this park is coming soon.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/pharazynsmall.png"
 			}],
 			"Pohutukawa Park": [{
 				"Designation": [
@@ -621,7 +620,7 @@ window.onload = function() {
 				"Location": "He Awa Cresent, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/shotover",
 				"Blurb": "Information about this park is coming soon.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/shotoversmall.png"
 			}],
 			"Simpson Cresent Reserve": [{
 				"Designation": [
@@ -714,7 +713,7 @@ window.onload = function() {
 				"Location": "Queens Road, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#victor",
 				"Blurb": "Information about this park is coming soon.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/victorsmall.png"
 			}],
 			"Waikanae North": [{
 				"Designation": [
