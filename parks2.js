@@ -86,7 +86,6 @@ window.onload = function() {
 		var parks = {
 			"Aōtaki Street Skate Park": [{
 				"Designation": [
-					"Greenspace",
 					"Picnic Area",
 					"Playground",
 					"Skate Park",
@@ -100,7 +99,6 @@ window.onload = function() {
 			}],
 			"Awatea Lakes": [{
 				"Designation": [
-					"Greenspace",
 					"Playground",
 					"Scenic Walk"
 				],
@@ -131,7 +129,7 @@ window.onload = function() {
 					"Basketball Hoop",
 					"Greenspace",
 					"Picnic Area",
-					"Playground",
+					"Playground"
 				],
 				"Suburb": "Te Horo",
 				"Location": "Dixie Street, Te Horo",
@@ -149,9 +147,21 @@ window.onload = function() {
 				"Blurb": "Eatwell Reserve is one of two fenced dog parks in Paraparaumu and accessed via Gray Avenue. It tucks around and opens up into a wide open space for dogs to run around. A creek runs through the reserve and mature trees border the north boundary creating a picturesque large open space.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Eatwellsmall.png"
 			}],
-			"Elizabeth Rose Reserve": [{
+			"Edgewater Reserve": [{
 				"Designation": [
 					"Greenspace",
+					"Picnic Area",
+					"Playground",
+					"Toilets"
+				],
+				"Suburb": "Waikanae",
+				"Location": "Fleetwood Grove, Waikanae",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#edge",
+				"Blurb": "Information about this park is coming soon..",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
+			}],
+			"Elizabeth Rose Reserve": [{
+				"Designation": [
 					"Picnic Area",
 					"Playground"
 				],
@@ -215,9 +225,9 @@ window.onload = function() {
 			}],
 			"Hookway Grove Reserve": [{
 				"Designation": [
-					"Dogs on leash",
 					"Picnic Area",
-					"Playground"
+					"Playground",
+					"Dogs on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Hookway Grove, Paraparaumu",
@@ -279,9 +289,9 @@ window.onload = function() {
 			}],
 			"Larch Grove Playground": [{
 				"Designation": [
-					"Dogs on leash",
 					"Greenspace",
-					"Playground"
+					"Playground",
+					"Dogs on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Larch Grove, Paraparaumu",
@@ -328,7 +338,6 @@ window.onload = function() {
 			}],
 			"Main Street Playground": [{
 				"Designation": [
-					"Dogs on leash",
 					"Picnic Area",
 					"Playground",
 					"Toilets"
@@ -341,10 +350,10 @@ window.onload = function() {
 			}],
 			"Manawa Avenue Reserve": [{
 				"Designation": [
-					"Dogs on leash",
 					"Greenspace",
 					"Picnic Area",
-					"Playground"
+					"Playground",
+					"Dogs on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Manawa Avenue, Paraparaumu",
@@ -354,10 +363,10 @@ window.onload = function() {
 			}],
 			"Marere Avenue Reserve": [{
 				"Designation": [
-					"Dogs on leash",
 					"Greenspace",
 					"Picnic Area",
-					"Playground"
+					"Playground",
+					"Dogs on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Atarau Grove, Paraparaumu",
@@ -382,8 +391,8 @@ window.onload = function() {
 			}],
 			"Matai Road Reserve": [{
 				"Designation": [
-					"Dogs on leash",
 					"Greenspace",
+					"Dogs on leash",
 					"Playground"
 				],
 				"Suburb": "Raumati",
@@ -466,7 +475,7 @@ window.onload = function() {
 				"Blurb": "Within this quiet neighbourhood you'll find a great partially fenced playground set back from the road just for little ones. Plenty of seating, a picnic table and grassed area allow for a great family outting. The path leading from the roadside to the playground is great for buggy access.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Milnesmall.png"
 			}],
-			"New Dog Park": [{
+			"Otaki Dog Park": [{
 				"Designation": [
 					"Dog off leash"
 				],
@@ -478,6 +487,7 @@ window.onload = function() {
 			}],
 			"Otaihanga Domain": [{
 				"Designation": [
+					"Dogs on leash",
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
@@ -504,7 +514,6 @@ window.onload = function() {
 			}],
 			"Ōtaki i-Site Playground": [{
 				"Designation": [
-					"Dogs on leash",
 					"Picnic Area",
 					"Playground",
 					"Toilets"
@@ -557,8 +566,7 @@ window.onload = function() {
 					"Dogs on leash",
 					"Greenspace",
 					"Picnic Area",
-					"Playground",
-					"Sports Grounds"
+					"Playground"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Makarini Street, Paraparaumu",
@@ -568,6 +576,7 @@ window.onload = function() {
 			}],
 			"Queen Elizabeth Park": [{
 				"Designation": [
+					"Dogs on leash",
 					"Picnic Area",
 					"Scenic Walk",
 					"Toilets"
@@ -602,7 +611,6 @@ window.onload = function() {
 			}],
 			"San Vito Place Reserve": [{
 				"Designation": [
-					"Greenspace",
 					"Playground"
 				],
 				"Suburb": "Paraparaumu",
@@ -624,7 +632,6 @@ window.onload = function() {
 			}],
 			"Simpson Cresent Reserve": [{
 				"Designation": [
-					"Dogs on leash",
 					"Greenspace",
 					"Playground"
 				],
@@ -666,7 +673,7 @@ window.onload = function() {
 			"Tennis Court Road Reserve": [{
 				"Designation": [
 					"Basketball Court",
-					"Dogs on leash",
+					"Dogs of leash",
 					"Greenspace",
 					"Netball Court",
 					"Picnic Area",
@@ -770,7 +777,6 @@ window.onload = function() {
 			}],
 			"Waimeha Domain": [{
 				"Designation": [
-					"Dogs on leash",
 					"Picnic Area",
 					"Playground",
 					"Tennis Court",
@@ -787,7 +793,9 @@ window.onload = function() {
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
-					"Sports Grounds"
+					"Sports Grounds",
+					"Dogs on leash",
+					"Dog off leash"
 				],
 				"Suburb": "Raumati",
 				"Location": "Weka Road, Raumati Beach",
