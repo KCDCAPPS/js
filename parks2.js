@@ -110,7 +110,7 @@ window.onload = function() {
 			}],
 			"Campbell Park": [{
 				"Designation": [
-					"Dogs on leash",
+					"Dog on leash",
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
@@ -150,6 +150,7 @@ window.onload = function() {
 			"Edgewater Reserve": [{
 				"Designation": [
 					"Greenspace",
+					"Dog on leash",
 					"Picnic Area",
 					"Playground",
 					"Toilets"
@@ -227,7 +228,7 @@ window.onload = function() {
 				"Designation": [
 					"Picnic Area",
 					"Playground",
-					"Dogs on leash"
+					"Dog on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Hookway Grove, Paraparaumu",
@@ -250,7 +251,7 @@ window.onload = function() {
 			"Kaitawa Reserve": [{
 				"Designation": [
 					"Basketball Hoop",
-					"Dogs on leash",
+					"Dog on leash",
 					"Greenspace",
 					"Playground",
 					"Picnic Area",
@@ -291,7 +292,7 @@ window.onload = function() {
 				"Designation": [
 					"Greenspace",
 					"Playground",
-					"Dogs on leash"
+					"Dog on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Larch Grove, Paraparaumu",
@@ -353,7 +354,7 @@ window.onload = function() {
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
-					"Dogs on leash"
+					"Dog on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Manawa Avenue, Paraparaumu",
@@ -366,7 +367,7 @@ window.onload = function() {
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
-					"Dogs on leash"
+					"Dog on leash"
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Atarau Grove, Paraparaumu",
@@ -392,7 +393,7 @@ window.onload = function() {
 			"Matai Road Reserve": [{
 				"Designation": [
 					"Greenspace",
-					"Dogs on leash",
+					"Dog on leash",
 					"Playground"
 				],
 				"Suburb": "Raumati",
@@ -487,7 +488,7 @@ window.onload = function() {
 			}],
 			"Otaihanga Domain": [{
 				"Designation": [
-					"Dogs on leash",
+					"Dog on leash",
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
@@ -563,7 +564,7 @@ window.onload = function() {
 			}],
 			"Pohutukawa Park": [{
 				"Designation": [
-					"Dogs on leash",
+					"Dog on leash",
 					"Greenspace",
 					"Picnic Area",
 					"Playground"
@@ -576,7 +577,7 @@ window.onload = function() {
 			}],
 			"Queen Elizabeth Park": [{
 				"Designation": [
-					"Dogs on leash",
+					"Dog on leash",
 					"Picnic Area",
 					"Scenic Walk",
 					"Toilets"
@@ -673,7 +674,7 @@ window.onload = function() {
 			"Tennis Court Road Reserve": [{
 				"Designation": [
 					"Basketball Court",
-					"Dogs of leash",
+					"Dog off leash",
 					"Greenspace",
 					"Netball Court",
 					"Picnic Area",
@@ -710,6 +711,7 @@ window.onload = function() {
 			}],
 			"Victor Weggery Reserve": [{
 				"Designation": [
+					"Dog off leash",
 					"Basketball Hoop",
 					"Greenspace",
 					"Picnic Area",
@@ -736,7 +738,7 @@ window.onload = function() {
 			}],
 			"Waikanae Park": [{
 				"Designation": [
-					"Dogs off leash",
+					"Dog off leash",
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
@@ -794,7 +796,7 @@ window.onload = function() {
 					"Picnic Area",
 					"Playground",
 					"Sports Grounds",
-					"Dogs on leash",
+					"Dog on leash",
 					"Dog off leash"
 				],
 				"Suburb": "Raumati",
