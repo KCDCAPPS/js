@@ -105,7 +105,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Jade Lane, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#awatea",
-				"Blurb": "Awatea Lakes spreads between Awatea Avenue, Waterstone Avenue and Jade Lane. Lots of native planting make the small walk around around the pond a nice escape. Feed the ducks and let the kids have a play on the playground that is set back and lowered from the road.",
+				"Blurb": "Awatea Lakes spreads between Awatea Avenue, Waterstone Avenue and Jade Lane. Native planting makes the brief walk around the pond a nice escape. Feed the ducks and let the kids loose on a playground that's set back and lowered from the road.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Jadesmall.png"
 			}],
 			"Campbell Park": [{
@@ -121,7 +121,7 @@ window.onload = function() {
 				"Suburb": "Paekākāriki",
 				"Location": "Wellington Road, Paekākāriki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/campbell-park/",
-				"Blurb": "Campbell Park overlooks Paekākāriki Beach offering spectacular views. The soccer fields on the lower level are a great place to kick a ball around. Continue up the hill to the skate park and playground and let the kids enjoy the open greenspace and Pohutukawa tree shade.",
+				"Blurb": "Located just across the road from Paekākāriki Beach, Campbell Park offers football spectators and players a unique experience. Above the playing field, there's a playground where children can play safely – the best way to get here is via The Parade. There's plenty of open grassy space for picnics and a leisurely stroll.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Dixie Street Reserve": [{
@@ -169,7 +169,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Langdale Avenue, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Elizabeth",
-				"Blurb": "This recently updated playground is set back from the road for peace of mind with your little pre-schoolers and toddlers. The equipment is mostly suited for exploring little ones with small things to climb. A large picnic table means you can spend the day at the park and enjoy the sunshine!",
+				"Blurb": "This recently upgraded playground is set back from the road for peace of mind with your little pre-schoolers and toddlers. The equipment is mostly suited for exploring little ones with small things to climb. A large picnic table means you can spend the day at the park, relax and enjoy the sunshine!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Elizabethsmall.png"
 			}],
 			"Ferndale Drive Park": [{
@@ -192,7 +192,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Gandalf Cresent, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Gandalf",
-				"Blurb": "Explore Gandalf Cresent playground today! Swings, tunnel slide and climbing dome make this playground fun for children of all ages. The picnic table with a baby swing right next to it allows parents to relax and watch the kids play. The gate along the back boundary opens onto Te Roto Wetland Reserve.",
+				"Blurb": "Swings, a tunnel slide and climbing dome make this playground fun for children of all ages. There's a picnic table with a baby swing right next to it so you can relax and watch the kids play.  Along the back boundary line a gate opens onto Te Roto Wetland Reserve.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Gandalfsmall.png"
 			}],
 			"Greenwood Boulevard": [{
@@ -233,7 +233,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Hookway Grove, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#hookway",
-				"Blurb": "Hookway Grove Reserve is a playground nestled amongst native bush on Hookway Grove. The equipment is suited for all ages and a picnic table allows you to relax and enjoy the beautiful surroundings. Across the creek at the back of the reserve is a track to Kaitawa Reserve.",
+				"Blurb": "Hookway Grove Reserve is a playground nestled amongst native bush on Hookway Grove. It's suited for all ages and there's a picnic table so you can relax and enjoy the beautiful surroundings. There's a track scross the creek at the back of the reserve that you can follow all the way to Kaitawa Reserve.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Hookwaysmall.png"
 			}],
 			"Jim Cooke Memorial Park": [{
@@ -297,7 +297,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Larch Grove, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Larch",
-				"Blurb": "Larch Grove playground is bright and fun and is suited to young children. There's plenty of grass area to run around or have a picnic with a path running through between Larch Grove and Parakari Street. This playground is within walking distance from Coastlands Shopping Town and Coastlands Aquatic Centre.",
+				"Blurb": "Larch Grove Playground runs between Larch Grove and Parakai Street. This playground is bright, fun and suited to young children. There's plenty of grass area to run around or have a picnic, with a path running through between the two streets. It's within walking distance to Coastlands Shopping Town and Coastlands Aquatic Centre.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Larchsmall.png"
 			}],
 			"Leinster Avenue Reserve": [{
@@ -309,7 +309,7 @@ window.onload = function() {
 				"Suburb": "Raumati South",
 				"Location": "Leinster Avenue, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Leinster",
-				"Blurb": "Set back from the road for peace of mind, Leinster Avenue Reserve is a playground suited to smaller children and toddlers. Swings and small climbing structures encourage exploration while not being too high off the ground! A nice quiet spot tucked away in Raumati South.",
+				"Blurb": "Set back from the road for peace of mind, Leinster Avenue Reserve is a playground suited to smaller children and toddlers. Swings and small climbing structures encourage exploration while not being too high off the ground! A nice quiet spot tucked away in Raumati South.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Lorna Irene Drive Reserve": [{
@@ -319,7 +319,7 @@ window.onload = function() {
 				"Suburb": "Raumati South",
 				"Location": "Lorna Irene Drive, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Lorna",
-				"Blurb": "The Lorna Irene Drive Playground is a small playground suited to toddlers and young children located amongst an established subdivision. This is one of the lesser known playgrounds on the Kapiti Coast and regarded by many as a hidden treasure! Two covered bench seats let you enjoy a bit of shade.",
+				"Blurb": "This small playground is located in an established subdivision with small trees and gardens. It’s suited to toddlers and young children. Two covered bench seats let you enjoy a bit of shade. As  one of the lesser-known playgrounds on the Kāpiti Coast, this is regarded by many as a hidden treasure!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Maclean Park": [{
@@ -334,7 +334,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Marine Parade, Paraparaumu Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/maclean-park/",
-				"Blurb": "Kāpiti has grown up with Maclean Park and it’s a great place for the whole family. Right on the beach and across the road from the local shops and cafes, Maclean Park contains a newly revamped playground, public toilets, a skate park, basketball hoop and plenty of space to have a picnic.",
+				"Blurb": "Marine Gardens is a destination playground on the Kāpiti Coast! This beachfront playground in Raumati Beach is home to a wide range of play equipment including a flying fox! The Marine Gardens splash pad is fun for all ages and a great way to enjoy the sunshine and the water.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Main Street Playground": [{
@@ -359,7 +359,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Manawa Avenue, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Manawa",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "This reserve has an amazing playground with an abundance of equipment! The path that runs between the two streets is great for buggys and large grass area makes it a fun space for the little ones to run around. There's a lot of equipment for all ages.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/manawasmall.png"
 			}],
 			"Marere Avenue Reserve": [{
@@ -372,7 +372,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Atarau Grove, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Marere",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "Nestled between Marere Avenue and Atarau Grove, this reserve is a hidden neighbourhood gem.  Equipment for all ages and abilities means this is a playground to bring the whole family to.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mareresmall.png"
 			}],
 			"Marine Gardens": [{
@@ -399,7 +399,7 @@ window.onload = function() {
 				"Suburb": "Raumati",
 				"Location": "Matai Road, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Matai",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "This reserve on Matai Road has a playground, a community garden and is home to the Kapiti Arts and Crafts Society. The playground has something for all ages and abilities, with a lot to climb on and swing from! A great playground to visit to build confidence.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Matai Street Reserve": [{
@@ -425,7 +425,7 @@ window.onload = function() {
 				"Suburb": "Raumati South",
 				"Location": "Menin Road, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Matthews",
-				"Blurb": "Matthews Park’s close proximity Kāpiti College means that it is well used not only for sport but as both a walking route and as a place to kick a ball around. Off Menin Road you will see the club rooms for the Kāpiti Bears Rugby League Club, a playground and a keyhole basketball court.  ",
+				"Blurb": "Matthews Park is busy all year road. Its close proximity to Kāpiti College means that it’s well used for sport, as a walking route and a place to kick a ball around. Off Menin Road you’ll see the club rooms for the Kāpiti Bears Rugby League Club, a playground and a keyhole basketball court.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Matuhi Street Reserve": [{
@@ -473,7 +473,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Milne Drive, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Milne",
-				"Blurb": "Within this quiet neighbourhood you'll find a great partially fenced playground set back from the road just for little ones. Plenty of seating, a picnic table and grassed area allow for a great family outting. The path leading from the roadside to the playground is great for buggy access.",
+				"Blurb": "Within this quiet neighbourhood you'll find a great partially fenced playground set back from the road made just for little ones. Plenty of seating, a picnic table and grassed area allow for a great family outing. The path leading from the roadside to the playground is great for buggy access, and this park is home to Kāpiti's only climbable giraffe!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Milnesmall.png"
 			}],
 			"Otaki Dog Park": [{
@@ -572,7 +572,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Makarini Street, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Pohutukawa",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "Pohutukawa Park offers a massive grassed area to kick a ball around in the summer. The play equipment suits all ages and is spread out so plenty of children can play at once. A great neighbourhood play space!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Pohutusmall.png"
 			}],
 			"Queen Elizabeth Park": [{
@@ -607,7 +607,7 @@ window.onload = function() {
 				"Suburb": "Raumati South",
 				"Location": "Sams Way, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Ramati/#Sams",
-				"Blurb": "Sams Way Reserve is located close to the Lorna Irene Playground in Sams Way. There are 2 tennis courts that are available for public to use free of charge.",
+				"Blurb": "Sams Way Reserve is located close to the Lorna Irene Playground in Sams Way. There are two tennis courts you can use free of charge.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"San Vito Place Reserve": [{
@@ -639,7 +639,7 @@ window.onload = function() {
 				"Suburb": "Raumati",
 				"Location": "Simpson Cresent, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Simpson",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "This reserve has a large grassed area so it's great to run around in. A spider web climbing frame and plenty of things to hang and swing off makes this a great playground for older children. Park benches around the playground area allow you to sit and enjoy the peaceful surroundings.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Tasman Road Reserve": [{
@@ -696,7 +696,7 @@ window.onload = function() {
 				"Suburb": "Paekākāriki",
 				"Location": "Tilley Road, Paekākāriki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/paekakariki/#Tilley",
-				"Blurb": "Tilley Road Reserve is a great little spot for junior football located at the end of Tilley Road in Paekākāriki- come along and kick a ball around while being surrounded by nature.  The reserve is also home to the Te Rau O Te Rangi Kapiti Weavers Collective and their beautifully painted building.",
+				"Blurb": "Tilley Road Reserve borders Queen Elizabeth Park and is a great place to kick a ball around. Paekākāriki Sports Club uses the fields for junior football during the winter. The Te Rau o Te Rangi weaving collective meet regularly in their club room at the entrance to Tilley Road Reserve.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Totara Park Playground": [{
@@ -802,7 +802,7 @@ window.onload = function() {
 				"Suburb": "Raumati",
 				"Location": "Weka Road, Raumati Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/weka-park",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "Weka Park's located near Raumati Beach Shopping Village and Raumati Beach School which makes it a great place to stop during school drop off and pickup. It has a playground full of equipment for all ages and abilities and a large sports field. Sit at the picnic tables and watch the kids play.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Wesley Knight Park": [{
@@ -813,7 +813,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Ocean Road, Paraparaumu Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Wesley",
-				"Blurb": "Wesley Knight Park is one of two fully-fenced dog parks in Paraparaumu. With double gate access via Ocean Road or Seaview Road, a doggy drinking fountain, plenty of shade and poo bags, this park is a great place to bring your dog for a run around!",
+				"Blurb": "Wesley Knight Park is one of two fully-fenced off-leash dog parks in Paraparaumu. You can get to it via Ocean Road or Seaview Road, and there's a double safety gate at each entrance. There are poo bags at the gate if you've forgotten yours - please pick up your dog's poo!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Wesleysmall.png"
 			}]
 		}
