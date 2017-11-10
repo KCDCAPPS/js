@@ -94,7 +94,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Aōtaki Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#aotaki",
-				"Blurb": "Something for all ages! Kāpiti’s only ‘Learn to Ride’ track allows young children to bike and scooter around in style within the safety of this unique playground! Bring the older kids to the skate park and then settle down for a picnic. This park is located at the south end of Aōtaki Stret in Ōtaki.",
+				"Blurb": "Kāpiti’s only ‘Learn to Ride’ track allows young children to bike and scooter around in style within the safety of this unique playground! Bring the older kids to the skate park and then settle down for a picnic. This park is located at the south end of Aōtaki Street in Ōtaki.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Awatea Lakes": [{
@@ -134,7 +134,7 @@ window.onload = function() {
 				"Suburb": "Te Horo",
 				"Location": "Dixie Street, Te Horo",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Dixie",
-				"Blurb": "Information about this park is coming soon..",
+				"Blurb": "Dixie Street Reserve has a playground for all ages with a large pirate ship to explore. There's a great stretch of green space to run around, enjoy a picnic and practice your backyard cricket on the small artificial pitch. A small concrete pad and hoop means you can practice your basketball skills all summer long!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/dixiesmall.png"
 			}],
 			"Eatwell Reserve": [{
@@ -144,7 +144,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu Beach",
 				"Location": "Gray Avenue, Paraparaumu Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#eatwell",
-				"Blurb": "Eatwell Reserve is one of two fenced dog parks in Paraparaumu and accessed via Gray Avenue. It tucks around and opens up into a wide open space for dogs to run around. A creek runs through the reserve and mature trees border the north boundary creating a picturesque large open space.",
+				"Blurb": "Eatwell Reserve is one of two fenced dog parks in Paraparaumu. Accessed via Gray Avenue, Eatwell Reserve tucks around and opens up into a wide open space for dogs to run around. A creek runs through the reserve and mature trees sit along the northern edge.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Eatwellsmall.png"
 			}],
 			"Edgewater Reserve": [{
@@ -203,7 +203,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Greenwood Boulevard, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#greenwood",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "Surrounded by well-established trees, Greenwood Boulevard is a beautiful place to enjoy a game of tennis. The grass area is a great place to sit back and relax and enjoy the peace and quiet that comes with being away from the town centre.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Haruatai Park": [{
@@ -221,7 +221,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Mill Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/haruatai",
-				"Blurb": "Home to Ōtaki Pools, Haruatai sports grounds and an awesome playground, Haruatai Park has something for everyone. Haruatai Park playground has Kāpiti’s tallest swing, a keyhole basketball court, picnic tables and toilets. A new splash pad will be open in time for summer. ",
+				"Blurb": "Haruatai Park is home to Ōtaki Pools, Haruatai Playground and Haruatai sports fields.  As you enter the park there's a keyhole basketball court, picnic tables with shade sails, and one of Kāpiti's newest playgrounds. The playground is home to Kāpiti's tallest swing and other super fun equipment for all ages and abilities.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Hookway Grove Reserve": [{
@@ -261,7 +261,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Kaitawa Cresent, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/kaitawa-reserve/",
-				"Blurb": "Kaitawa reserve has play equipment, a keyhole basketball court and picnic tables- something to keep the whole family entertained for hours on end. Follow the path down to the Wharemauku Stream to find a flying fox or up the hill to the Paraparaumu water tank for panoramic views of the Kāpiti Coast.",
+				"Blurb": "Kaitawa Reserve has a playground, a keyhole basketball court, picnic tables and plenty of native planting - something to keep the whole family entertained for hours on end. Follow the path down to the Wharemauku Stream to find a flying fox or explore the reserve and all its natural beauty!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Kena Kena Park": [{
@@ -285,7 +285,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Kotuku Drive, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Kotuku",
-				"Blurb": "Kotuku Park is a beautiful open space with multiple access points. Kids can run around while being surrounded by nature and with Kāpiti Island in the background. The playground encourages play for different ages. A ship's wheel, great for imagination play, overlooks the playground and is immersed in the natural environment.",
+				"Blurb": "Kotuku Park is a beautiful open space with multiple access points. The expansive grass area means the kids can run around while being surrounded by nature and viewing Kāpiti Island in the background. The playground encourages play on several levels for different ages -great for imaginative play.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Kotukusmall.png"
 			}],
 			"Larch Grove Playground": [{
@@ -346,7 +346,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Main Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#main",
-				"Blurb": "Although this playground is small, its location next to the Ōtaki Library and Ōtaki War Memorial Hall makes this playground a real gem. It’s an ideal place to stop for a play or picnic while at the Main Street shops. Enjoy the sunshine on the large bench seats or relax in the shade.",
+				"Blurb": "Although this playground is small, its location next to the Ōtaki Library and Ōtaki War Memorial Hall makes it a real gem. It's an ideal place to stop for a play or a picnic while at the Main Street shops. Enjoy the sunshine on the large bench seats.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Manawa Avenue Reserve": [{
@@ -411,7 +411,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Matai Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Matai",
-				"Blurb": "Follow the path and discover what this park has to offer! Matati Street Reserve is tucked back from the road giving you peace of mind that the kids can run around safely. The keyhole basketball hoop is great for the older kids while the play equipment is suited to the younger crowd.",
+				"Blurb": "Matai Street Reserve is tucked back from the road giving you peace of mind that the kids can run around safely. The key hole basketball hoop is great for the older kids while the play equipment's suited to the younger crowd.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Matthews Park": [{
@@ -463,7 +463,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Main Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Memorial",
-				"Blurb": "Memorial Gardens offers a lovely spot to sit and reflect, with bench seats and gardens surrounding the Ōtaki War Memorial. Elm and birch trees create a balance of shade and sunshine. At the rear of the gardens are public toilets and the Ōtaki Plunket building.",
+				"Blurb": "Memorial Gardens offers a lovely spot to sit and reflect, with bench seats and gardens surrounding the Ōtaki War Memorial. Elm and birch trees create a balance of shade and sunshine. At the rear of the gardens are public toilets and in the Ōtaki Plunket building.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Milne Drive Reserve": [{
@@ -483,7 +483,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Aōtaki Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#dog",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "This is Kāpiti's newest (and some might say the best) dog park! Fully fenced, double gate entrance, a drinking fountain and soon to be full of all kinds of fun obstacles for dogs to enjoy this dog park is sure to be a hit with your pooch!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Otaihanga Domain": [{
@@ -522,7 +522,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "State Highway 1, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#isite",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "Located on the main highway, this playground is a spread out over a large grassed area. You'll find the traditional tractor, a basket swing and large picnic tables where you can enjoy a bite to eat. A great place to stop if you're visiting the shops.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Otaraua Park": [{
@@ -534,7 +534,7 @@ window.onload = function() {
 				"Suburb": "Otaihanga",
 				"Location": "Lancelot Grove, Otaihanga",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Ota",
-				"Blurb": "Otaraua Park is Kāpiti’s park to watch. Currently home to Football fields for winter but the long term development options are huge! The park has the potential to provide for the enjoyment of a wide range of recreational and sporting opportunities, as well as having areas for preservation and restoration.",
+				"Blurb": "Otaraua Park is Kāpiti's park to watch. It's currently home to football fields in winter, and the long-tem development options are huge! The park has potential to provide for a wide range of recreational and sporting opportunities, as well as having areas for preservation and restoration.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Paraparaumu Domain": [{
@@ -597,7 +597,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Regent Drive, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#regent",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "A beautiful place to have a picnic on a sunny day. Situated in a quiet neighbourhood, there's a large grassed area to sit and relax as well as picnic tables and seating. A path loops around the grassed area. The playground includes swings and equipment for young children.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Regentsmall.png"
 			}],
 			"Sams Way Reserve": [{
@@ -617,7 +617,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "San Vito Place, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#sanvito",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "This playground is nestled within the San Vito Place cul-de-sac and has equipment suited to younger children. There's plenty for the little ones to practice climbing skills on and seating to relax and enjoy this quiet suburban playground.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Sanvitosmall.png"
 			}],
 			"Shotover Grove Reserve": [{
@@ -706,7 +706,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Sue Avenue, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Totara",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "On the corner of Sue Avenue and Moy Place, Totara Park Playground is great for all ages. There's equipment for younger children with a small slide and see saws and plenty for the older kids to climb, and swing from! A nice quiet neighbourhood playground just off the main highway.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.png"
 			}],
 			"Victor Weggery Reserve": [{
