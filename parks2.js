@@ -159,7 +159,7 @@ window.onload = function() {
 				"Location": "Fleetwood Grove, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#edge",
 				"Blurb": "Running alongside the Waikanae River and the Waikanae River Track, Edgewater Reserve is a nice place to stop on your walk, have some lunch and play on the swings. There are toilets by the entrance to Fleetwood Grove. This is a dog on leash area.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/edgesmall.jpg"
 			}],
 			"Elizabeth Rose Reserve": [{
 				"Designation": [
@@ -182,7 +182,7 @@ window.onload = function() {
 				"Location": "Ferndale Drive, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#ferndale",
 				"Blurb": "Ferndale Drive Park has a partially-fenced playground located in a new neighbourhood and set against a backdrop of native planting. There's a climbing rope frame up to a slide for adventurous kids. Behind the playground there's a small walking track that allows you to get close to nature.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/ferndalesmall.jpg"
 			}],
 			"Gandalf Cresent": [{
 				"Designation": [
@@ -273,7 +273,7 @@ window.onload = function() {
 				"Location": "Whyte Street, Paraparaumu Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#kena",
 				"Blurb": "Kena Kena Park is home to the Paraparaumu Cricket Club. Surrounded by trees and open green space, the park is idyllic, particularly during the summer months. The park has a grass pitch for senior cricket games, cricket nets for practice and the Paraparaumu Cricket Club rooms.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Kenasmall.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/kenasmall.jpg"
 			}],
 			"Kotuku Reserve": [{
 				"Designation": [
@@ -335,7 +335,7 @@ window.onload = function() {
 				"Location": "Marine Parade, Paraparaumu Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/maclean-park/",
 				"Blurb": "Kāpiti has grown up with Maclean Park and it’s a great place for the whole family. Right on the beach and across the road from the local shops and cafes, Maclean Park contains a newly revamped playground, public toilets, a skate park, basketball hoop and plenty of space to have a picnic.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/macleansmall.jpg"
 			}],
 			"Main Street Playground": [{
 				"Designation": [
@@ -438,7 +438,7 @@ window.onload = function() {
 				"Location": "Matuhi Street, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Matuhi",
 				"Blurb": "This playground sits against a hill in the new 'Kāpiti Views' neighbourhood. It's suited to the younger crowd with a lot of equipment to build confidence. There are swings, including one next to the picnic table. Climb the hill to the top of the tunnel slide for a fun slide down.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/kapitismall.jpg"
 			}],
 			"Mazengarb Reserve": [{
 				"Designation": [
@@ -618,7 +618,7 @@ window.onload = function() {
 				"Location": "San Vito Place, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#sanvito",
 				"Blurb": "This playground is nestled within the San Vito Place cul-de-sac and has equipment suited to younger children. There's plenty for the little ones to practice climbing skills on and seating to relax and enjoy this quiet suburban playground.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Sanvitosmall.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/sansmall.jpg"
 			}],
 			"Shotover Grove Reserve": [{
 				"Designation": [
@@ -775,7 +775,7 @@ window.onload = function() {
 				"Location": "Pehi Kupa Street, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#war",
 				"Blurb": "Different varieties of rose gardens are scattered around this park along with plenty of seating. Have a picnic on the grass or the bench seats and bring the kids for a play on the playground. There's plenty of shade created by the many trees throughout the park and some shaded seating underneath a pergola.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/rosesmall.jpg"
 			}],
 			"Waimeha Domain": [{
 				"Designation": [
