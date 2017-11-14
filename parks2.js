@@ -451,7 +451,7 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Scaifie Drive, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/mazengarb-reserve",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "This large reserve is home the Mazengarb Sports Complex, a playground, the Coastlands Kapiti Sports Turf and event facility, the Paraparaumu Croquet Club, Kāpiti Gymsports and many sports. The playground is set slightly down from the road with picnic tables and heaps of equipment for all ages, including a flying fox.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
 			}],
 			"Memorial Gardens": [{
@@ -510,7 +510,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Domain Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki-domain",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "Ōtaki Domain is the proud home to the Rahui Sports Club and Whiti Te Ra League Club. There are netball courts along Domain Road which are available for you to use, but it pays to book if you want to have a team practice over winter. The courts are used for tennis in the summer.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
 			}],
 			"Ōtaki i-Site Playground": [{
@@ -651,7 +651,7 @@ window.onload = function() {
 				"Suburb": "Ōtaki",
 				"Location": "Tasman Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Tasman",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "Tasman Road Reserve is home to an awesome beach-themed playground! There’s a pirate ship to explore and climb one, and it’s set back from the road so the kids run around safely. There’s a small car park for off-street parking with public toilets and plenty of space to have a picnic on the grass.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
 			}],
 			"Te Atiawa Park": [{
@@ -750,7 +750,7 @@ window.onload = function() {
 				"Suburb": "Waikanae",
 				"Location": "Park Avenue, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae-park",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "This is a large park with multiple areas and is home to a range of sports throughout the year. There is a small skate park and playground with something to do for all ages. The open green space and picnic tables make this a great spot to enjoy with the whole family.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
 			}],
 			"Waikanae Shops Playground": [{
@@ -787,7 +787,7 @@ window.onload = function() {
 				"Suburb": "Waikanae Beach",
 				"Location": "Tutere Street, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waimeha-domain",
-				"Blurb": "Information about this park is coming soon.",
+				"Blurb": "You can get to Waikanae Beach through a number of access ways from Waimeha Domain. There’s heaps to do here; a colourful playground with equipment for different ages; picnic areas; a volleyball net; tennis courts; and plenty of open green space to run around and enjoy being close to the beach",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/waimehasmall.jpg"
 			}],
 			"Weka Park": [{
