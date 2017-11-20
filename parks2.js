@@ -3,7 +3,7 @@ window.onload = function() {
 		var visibleParks = 0;
 		/* UAT ONLY */
 		//var domain = "http://uat.kapiticoast.govt.nz.testwin.gdmedia.tv/";
-		var domain = "http://www.kapiticoast.govt.nz";
+		var domain = "http://www.kapiticoast.govt.nz/";
 
 		$('#suburb').select2({
 			placeholder: "Select a Suburb",
