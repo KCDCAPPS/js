@@ -9,7 +9,7 @@ window.onload = function() {
 			placeholder: "Select a Suburb",
 			allowClear: true,
 			data: [
-			{
+			/*{
 			  id: 'Ōtaki',
 			  text: 'Ōtaki'
 			},
@@ -20,7 +20,7 @@ window.onload = function() {
 			{
 			  id: 'Paekākāriki',
 			  text: 'Paekākāriki'
-			},
+			}*/,
 			{
 			  id: 'Paraparaumu',
 			  text: 'Paraparaumu'
@@ -28,7 +28,7 @@ window.onload = function() {
 			{
 			  id: 'Paraparaumu Beach',
 			  text: 'Paraparaumu Beach'
-			},
+			}/*,
 			{
 			  id: 'Raumati',
 			  text: 'Raumati'
@@ -48,7 +48,7 @@ window.onload = function() {
 			{
 			  id: 'Waikanae Beach',
 			  text: 'Waikanae Beach'
-			}
+			}*/
 			// ... more data objects ...
 			]
 		});
