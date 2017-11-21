@@ -124,7 +124,7 @@ window.onload = function() {
 				"Location": "Wellington Road, Paekākāriki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/campbell-park/",
 				"Blurb": "Located just across the road from Paekākāriki Beach, Campbell Park offers football spectators and players a unique experience. Above the playing field, there's a playground where children can play safely – the best way to get here is via The Parade. There's plenty of open grassy space for picnics and a leisurely stroll.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/campsmall.jpg"
 			}],
 			"Dixie Street Reserve": [{
 				"Designation": [
@@ -248,7 +248,7 @@ window.onload = function() {
 				"Location": "Nimmo Avenue, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Jim",
 				"Blurb": "Jim Cooke Memorial Park is home to Waikanae Football Club. Currently a training only field, but soon to reopen as a park to be played on during winter weekend play. Follow the path down Nimmo Avenue and join up with the Waikanae side of the Waikanae River track.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/jimsmall.jpg"
 			}],
 			"Kaitawa Reserve": [{
 				"Designation": [
@@ -502,7 +502,7 @@ window.onload = function() {
 				"Location": "Makora Road, Otaihanga",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaihanga-domain/",
 				"Blurb": "Head down to Otaihanga Domain for a picnic followed by a walk this weekend! The Domain offers access to both sides of the Waikanae River Track, plenty of picnic areas, a playground, toilets and lots of greenspace- both open and shaded by trees. A beautiful spot for everyone.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/otasmall.jpg"
 			}],
 			"Ōtaki Domain": [{
 				"Designation": [
@@ -537,7 +537,7 @@ window.onload = function() {
 				"Location": "Lancelot Grove, Otaihanga",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Ota",
 				"Blurb": "Otaraua Park is Kāpiti's park to watch. It's currently home to football fields in winter, and the long-tem development options are huge! The park has potential to provide for a wide range of recreational and sporting opportunities, as well as having areas for preservation and restoration.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/otarauasmall.jpg"
 			}],
 			"Paraparaumu Domain": [{
 				"Designation": [
@@ -699,7 +699,7 @@ window.onload = function() {
 				"Location": "Tilley Road, Paekākāriki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/paekakariki/#Tilley",
 				"Blurb": "Tilley Road Reserve borders Queen Elizabeth Park and is a great place to kick a ball around. Paekākāriki Sports Club uses the fields for junior football during the winter. The Te Rau o Te Rangi weaving collective meet regularly in their club room at the entrance to Tilley Road Reserve.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/tilleysmall.jpg"
 			}],
 			"Totara Park Playground": [{
 				"Designation": [
@@ -753,7 +753,7 @@ window.onload = function() {
 				"Location": "Park Avenue, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae-park",
 				"Blurb": "This is a large park with multiple areas and is home to a range of sports throughout the year. There is a small skate park and playground with something to do for all ages. The open green space and picnic tables make this a great spot to enjoy with the whole family.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/waismall.jpg"
 			}],
 			"Waikanae Shops Playground": [{
 				"Designation": [
@@ -763,7 +763,7 @@ window.onload = function() {
 				"Location": "Mahara Place, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Waikanaeshops",
 				"Blurb": "Located in the middle of the Waikanae shopping centre on Mahara Place, this playground is a great spot to let the kids play and to take a break from running errands. It's set in a courtyard with seating, shade providing trees and has a friendly atmosphere. Toilets can be found just around the corner outside Mahara Gallery.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/maharasmall.jpg"
 			}],
 			"Waikanae War Memorial": [{
 				"Designation": [
