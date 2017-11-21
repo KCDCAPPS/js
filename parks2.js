@@ -390,7 +390,7 @@ window.onload = function() {
 				"Location": "Garden Road, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/marine-gardens",
 				"Blurb": "Marine Gardens is a destination playground on the Kāpiti Coast! This beachfront playground in Raumati Beach is home to a wide range of play equipment including a flying fox! The Marine Gardens splash pad is fun for all ages and a great way to enjoy the sunshine and the water.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/marinesmall.jpg"
 			}],
 			"Matai Road Reserve": [{
 				"Designation": [
@@ -402,7 +402,7 @@ window.onload = function() {
 				"Location": "Matai Road, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Matai",
 				"Blurb": "This reserve on Matai Road has a playground, a community garden and is home to the Kapiti Arts and Crafts Society. The playground has something for all ages and abilities, with a lot to climb on and swing from! A great playground to visit to build confidence.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mataismall.jpg"
 			}],
 			"Matai Street Reserve": [{
 				"Designation": [
@@ -428,7 +428,7 @@ window.onload = function() {
 				"Location": "Menin Road, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Matthews",
 				"Blurb": "Matthews Park is busy all year road. Its close proximity to Kāpiti College means that it’s well used for sport, as a walking route and a place to kick a ball around. Off Menin Road you’ll see the club rooms for the Kāpiti Bears Rugby League Club, a playground and a keyhole basketball court.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mattsmall.jpg"
 			}],
 			"Matuhi Street Reserve": [{
 				"Designation": [
