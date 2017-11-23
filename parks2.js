@@ -107,7 +107,6 @@ window.onload = function() {
 				"Suburb": "Paraparaumu",
 				"Location": "Jade Lane, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#awatea",
-				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#awatea",
 				"Blurb": "Awatea Lakes spreads between Awatea Avenue, Waterstone Avenue and Jade Lane. Native planting makes the brief walk around the pond a nice escape. Feed the ducks and let the kids loose on a playground that's set back and lowered from the road.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Jadesmall.jpg"
 			}],
@@ -412,8 +411,8 @@ window.onload = function() {
 					"Playground"
 				],
 				"Suburb": "Ōtaki",
-				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Matai",
 				"Location": "Matai Street, Ōtaki",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Matai",
 				"Blurb": "Matai Street Reserve is tucked back from the road giving you peace of mind that the kids can run around safely. The key hole basketball hoop is great for the older kids while the play equipment's suited to the younger crowd.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mataistreetsmall.jpg"
 			}],
