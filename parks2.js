@@ -97,7 +97,7 @@ window.onload = function() {
 				"Location": "Aōtaki Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#aotaki",
 				"Blurb": "Kāpiti’s only ‘Learn to Ride’ track allows young children to bike and scooter around in style within the safety of this unique playground! Bring the older kids to the skate park and then settle down for a picnic. This park is located at the south end of Aōtaki Street in Ōtaki.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/aotakismall.jpg"
 			}],
 			"Awatea Lakes": [{
 				"Designation": [
@@ -106,6 +106,7 @@ window.onload = function() {
 				],
 				"Suburb": "Paraparaumu",
 				"Location": "Jade Lane, Paraparaumu",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#awatea",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#awatea",
 				"Blurb": "Awatea Lakes spreads between Awatea Avenue, Waterstone Avenue and Jade Lane. Native planting makes the brief walk around the pond a nice escape. Feed the ducks and let the kids loose on a playground that's set back and lowered from the road.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Jadesmall.jpg"
@@ -264,7 +265,7 @@ window.onload = function() {
 				"Location": "Kaitawa Cresent, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/kaitawa-reserve/",
 				"Blurb": "Kaitawa Reserve has a playground, a keyhole basketball court, picnic tables and plenty of native planting - something to keep the whole family entertained for hours on end. Follow the path down to the Wharemauku Stream to find a flying fox or explore the reserve and all its natural beauty!",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/kaitawasmall.jpg"
 			}],
 			"Kena Kena Park": [{
 				"Designation": [
@@ -312,7 +313,7 @@ window.onload = function() {
 				"Location": "Leinster Avenue, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Leinster",
 				"Blurb": "Set back from the road for peace of mind, Leinster Avenue Reserve is a playground suited to smaller children and toddlers. Swings and small climbing structures encourage exploration while not being too high off the ground! A nice quiet spot tucked away in Raumati South.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/leinstersmall.jpg"
 			}],
 			"Lorna Irene Drive Reserve": [{
 				"Designation": [
@@ -322,7 +323,7 @@ window.onload = function() {
 				"Location": "Lorna Irene Drive, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Lorna",
 				"Blurb": "This small playground is located in an established subdivision with small trees and gardens. It’s suited to toddlers and young children. Two covered bench seats let you enjoy a bit of shade. As  one of the lesser-known playgrounds on the Kāpiti Coast, this is regarded by many as a hidden treasure!",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/lornasmall.jpg"
 			}],
 			"Maclean Park": [{
 				"Designation": [
@@ -349,7 +350,7 @@ window.onload = function() {
 				"Location": "Main Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#main",
 				"Blurb": "Although this playground is small, its location next to the Ōtaki Library and Ōtaki War Memorial Hall makes it a real gem. It's an ideal place to stop for a play or a picnic while at the Main Street shops. Enjoy the sunshine on the large bench seats.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mainsmall.jpg"
 			}],
 			"Manawa Avenue Reserve": [{
 				"Designation": [
@@ -411,10 +412,10 @@ window.onload = function() {
 					"Playground"
 				],
 				"Suburb": "Ōtaki",
-				"Location": "Matai Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Matai",
+				"Location": "Matai Street, Ōtaki",
 				"Blurb": "Matai Street Reserve is tucked back from the road giving you peace of mind that the kids can run around safely. The key hole basketball hoop is great for the older kids while the play equipment's suited to the younger crowd.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mataistreetsmall.jpg"
 			}],
 			"Matthews Park": [{
 				"Designation": [
@@ -486,7 +487,7 @@ window.onload = function() {
 				"Location": "Aōtaki Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#dog",
 				"Blurb": "This is Kāpiti's newest (and some might say the best) dog park! Fully fenced, double gate entrance, a drinking fountain and soon to be full of all kinds of fun obstacles for dogs to enjoy this dog park is sure to be a hit with your pooch!",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/dogsmall.jpg"
 			}],
 			"Otaihanga Domain": [{
 				"Designation": [
@@ -513,7 +514,7 @@ window.onload = function() {
 				"Location": "Domain Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki-domain",
 				"Blurb": "Ōtaki Domain is the proud home to the Rahui Sports Club and Whiti Te Ra League Club. There are netball courts along Domain Road which are available for you to use, but it pays to book if you want to have a team practice over winter. The courts are used for tennis in the summer.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/otakidomsmall.jpg"
 			}],
 			"Ōtaki i-Site Playground": [{
 				"Designation": [
@@ -588,7 +589,7 @@ window.onload = function() {
 				"Location": "Wellington Road, Paekākāriki",
 				"Webpage": "http://www.gw.govt.nz/QEP/",
 				"Blurb": "Queen Elizabeth Park is spread across 650 hectares of duneland from Paekakariki to Raumati South. The park has several access points and plenty of space to enjoy swimming, walking, cycling, horseriding, or picnics. Visit the Tramway Museum, WWII Marines displays and the kahikatea forest remnant.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/qep.jpg"
 			}],
 			"Regent Drive Reserve": [{
 				"Designation": [
@@ -610,7 +611,7 @@ window.onload = function() {
 				"Location": "Sams Way, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Ramati/#Sams",
 				"Blurb": "Sams Way Reserve is located close to the Lorna Irene Playground in Sams Way. There are two tennis courts you can use free of charge.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/samsmall.jpg"
 			}],
 			"San Vito Place Reserve": [{
 				"Designation": [
@@ -642,7 +643,7 @@ window.onload = function() {
 				"Location": "Simpson Cresent, Raumati",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#Simpson",
 				"Blurb": "This reserve has a large grassed area so it's great to run around in. A spider web climbing frame and plenty of things to hang and swing off makes this a great playground for older children. Park benches around the playground area allow you to sit and enjoy the peaceful surroundings.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/simpsonsmall.jpg"
 			}],
 			"Tasman Road Reserve": [{
 				"Designation": [
@@ -654,7 +655,7 @@ window.onload = function() {
 				"Location": "Tasman Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Tasman",
 				"Blurb": "Tasman Road Reserve is home to an awesome beach-themed playground! There’s a pirate ship to explore and climb one, and it’s set back from the road so the kids run around safely. There’s a small car park for off-street parking with public toilets and plenty of space to have a picnic on the grass.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/tasmansmall.jpg"
 			}],
 			"Te Atiawa Park": [{
 				"Designation": [
@@ -688,7 +689,7 @@ window.onload = function() {
 				"Location": "Tennis Court Road, Raumati South",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/tennis-court-road-reserve",
 				"Blurb": "Tennis Court Road Reserve (Kawatiri Reserve) is one of the larger play spaces of in Raumati South. The Reserve has a large grass area, a playground, the Raumati South Memorial Hall and tennis courts. The playground has fun equipment for all ages and there’s plenty of space to have a picnic.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/tennissmall.jpg"
 			}],
 			"Tilley Road Reserve": [{
 				"Designation": [
@@ -709,7 +710,7 @@ window.onload = function() {
 				"Location": "Sue Avenue, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Totara",
 				"Blurb": "On the corner of Sue Avenue and Moy Place, Totara Park Playground is great for all ages. There's equipment for younger children with a small slide and see saws and plenty for the older kids to climb, and swing from! A nice quiet neighbourhood playground just off the main highway.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/totarasmall.jpg"
 			}],
 			"Victor Weggery Reserve": [{
 				"Designation": [
@@ -805,7 +806,7 @@ window.onload = function() {
 				"Location": "Weka Road, Raumati Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/weka-park",
 				"Blurb": "Weka Park's located near Raumati Beach Shopping Village and Raumati Beach School which makes it a great place to stop during school drop off and pickup. It has a playground full of equipment for all ages and abilities and a large sports field. Sit at the picnic tables and watch the kids play.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/wekasmall.jpg"
 			}],
 			"Wesley Knight Park": [{
 				"Designation": [
