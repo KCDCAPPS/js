@@ -211,6 +211,7 @@ window.onload = function() {
 			"Haruatai Park": [{
 				"Designation": [
 					"Basketball Hoop",
+					"BBQ",
 					"Greenspace",
 					"Picnic Area",
 					"Playground",
@@ -379,6 +380,7 @@ window.onload = function() {
 			}],
 			"Marine Gardens": [{
 				"Designation": [
+					"BBQ",
 					"Greenspace",
 					"Minature Railway",
 					"Picnic Area",
@@ -579,6 +581,7 @@ window.onload = function() {
 			}],
 			"Queen Elizabeth Park": [{
 				"Designation": [
+					"BBQ",
 					"Dog on leash",
 					"Picnic Area",
 					"Scenic Walk",
