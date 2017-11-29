@@ -912,7 +912,7 @@ window.onload = function() {
 					
 				});
 
-				$.each(designations, function (i, designation) {
+				$.each(designations.sort(), function (i, designation) {
 					$('#designation').append(
 						$('<option>', {
 							value: designation,
