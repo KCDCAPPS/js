@@ -219,6 +219,7 @@ window.onload = function() {
 					"Splash Pad",
 					"Sports Grounds",
 					"Swimming Pool",
+					"Tennis Court",
 					"Toilets"
 				],
 				"Suburb": "Ōtaki",
