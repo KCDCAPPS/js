@@ -226,7 +226,7 @@ window.onload = function() {
 				"Location": "Mill Road, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/haruatai",
 				"Blurb": "Haruatai Park is home to Ōtaki Pools, Haruatai Playground and Haruatai sports fields.  As you enter the park there's a keyhole basketball court, picnic tables with shade sails, and one of Kāpiti's newest playgrounds. The playground is home to Kāpiti's tallest swing and other super fun equipment for all ages and abilities.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/haruataismall.jpg"
 			}],
 			"Hookway Grove Reserve": [{
 				"Designation": [
@@ -469,7 +469,7 @@ window.onload = function() {
 				"Location": "Main Street, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Memorial",
 				"Blurb": "Memorial Gardens offers a lovely spot to sit and reflect, with bench seats and gardens surrounding the Ōtaki War Memorial. Elm and birch trees create a balance of shade and sunshine. At the rear of the gardens are public toilets and in the Ōtaki Plunket building.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/memorialsmall.jpg"
 			}],
 			"Milne Drive Reserve": [{
 				"Designation": [
