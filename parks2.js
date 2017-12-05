@@ -206,7 +206,7 @@ window.onload = function() {
 				"Location": "Greenwood Boulevard, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#greenwood",
 				"Blurb": "Surrounded by well-established trees, Greenwood Boulevard is a beautiful place to enjoy a game of tennis. The grass area is a great place to sit back and relax and enjoy the peace and quiet that comes with being away from the town centre.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/greenwoodsmall.jpg"
 			}],
 			"Haruatai Park": [{
 				"Designation": [
@@ -457,7 +457,7 @@ window.onload = function() {
 				"Location": "Scaifie Drive, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/mazengarb-reserve",
 				"Blurb": "This large reserve is home the Mazengarb Sports Complex, a playground, the Coastlands Kapiti Sports Turf and event facility, the Paraparaumu Croquet Club, Kāpiti Gymsports and many sports. The playground is set slightly down from the road with picnic tables and heaps of equipment for all ages, including a flying fox.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/mazsmall.jpg"
 			}],
 			"Memorial Gardens": [{
 				"Designation": [
@@ -528,7 +528,7 @@ window.onload = function() {
 				"Location": "State Highway 1, Ōtaki",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#isite",
 				"Blurb": "Located on the main highway, this playground is a spread out over a large grassed area. You'll find the traditional tractor, a basket swing and large picnic tables where you can enjoy a bite to eat. A great place to stop if you're visiting the shops.",
-				"Image": "/globalassets/our-district/our-community/parks-and-recreation/imagefiller.jpg"
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/isitesmall.jpg"
 			}],
 			"Otaraua Park": [{
 				"Designation": [
