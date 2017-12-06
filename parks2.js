@@ -871,7 +871,7 @@ window.onload = function() {
 							"<div class='col-md-4'>",
 								"<img style='width: 230px; height: 170px;' ",
 								"src='" + parkAttributes.Image + "' ",
-								"alt='...' class='img-thumbnail'>",
+								"alt='" + park + "' class='img-thumbnail'>",
 							"</div>",
 							"<div class='col-md-8'>",
 								"<h2 style='margin-top: 10px;'>" + park + "</h2>",
