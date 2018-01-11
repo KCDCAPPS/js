@@ -533,6 +533,7 @@ window.onload = function() {
 			"Otaraua Park": [{
 				"Designation": [
 					"Greenspace",
+					"Scenic Walk",
 					"Sports Grounds",
 					"Toilets"
 				],
