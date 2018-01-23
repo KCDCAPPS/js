@@ -581,6 +581,18 @@ window.onload = function() {
 				"Blurb": "Pohutukawa Park offers a massive grassed area to kick a ball around in the summer. The play equipment suits all ages and is spread out so plenty of children can play at once. A great neighbourhood play space!",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Pohutusmall.jpg"
 			}],
+			"Pukekawa Park": [{
+				"Designation": [
+					"Dog off leash",
+					"Greenspace",
+					"Scenic Walk",
+				],
+				"Suburb": "Waikanae",
+				"Location": "Greenaway Road, Waikanae",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Waikanae/#pukekawa",
+				"Blurb": "Pukekawa Park is a great open space close to the Waikanae River. Head through the kissing gate and into the park to a beautiful grass area with mature trees for shade. The short distance to the Waikanae River Track makes this a great place to stop and let your dog off leash.",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/pukesmall.jpg"
+			}],
 			"Queen Elizabeth Park": [{
 				"Designation": [
 					"BBQ",
