@@ -619,6 +619,18 @@ window.onload = function() {
 				"Blurb": "A beautiful place to have a picnic on a sunny day. Situated in a quiet neighbourhood, there's a large grassed area to sit and relax as well as picnic tables and seating. A path loops around the grassed area. The playground includes swings and equipment for young children.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Regentsmall.jpg"
 			}],
+			"Russell Reserve": [{
+				"Designation": [
+					"Dog on leash",
+					"Greenspace",
+					"Scenic walk",
+				],
+				"Suburb": "Waikanae",
+				"Location": "Ngaio Road, Waikanae",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Waikanae/#russell",
+				"Blurb": "At the end of Ngaio Road, Waikanae Kindergarten sits at the entrance to the small but beautiful Russell reserve. Follow the path around the reserve, past the Waikanae Scouts and become immersed in nature. Walk through the reserve to Ngarara Road and visit Waikanae Park or Waikanae Pools.",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/russellsmall.jpg"
+			}],
 			"Sams Way Reserve": [{
 				"Designation": [
 					"Tennis Court"
