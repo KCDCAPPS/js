@@ -1,3 +1,4 @@
 .nav.nav-tabs li.active a{
-	color: #008ece !important
+	color: #008ece !important;
+	font-size: 16px;
 }
