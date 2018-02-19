@@ -568,6 +568,20 @@ window.onload = function() {
 				"Blurb": "This bright, fun playground is located on the corner of Pharazyn Avenue and Barbara Way. The big open grass space provides plenty of room to run around while enjoying the peacefulness of this quiet neighbourhood. There's a mix of play equipment here - a basketball hoop, swings and plenty of ways to explore and climb.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/pharazynsmall.jpg"
 			}],
+			"Pharazyn Reserve": [{
+				"Designation": [
+					"Dog on leash",
+					"Greenspace",
+					"Picnic Area",
+					"Playground",
+					"Toilets"
+				],
+				"Suburb": "Waikanae Beach",
+				"Location": "Rutherford Drive, Waikanae Beach",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#phara",
+				"Blurb": "Pharazyn Reserve is a large reserve located away from the hustle and bustle of town life and is home to many birds. A flying fox makes Pharazyn Reserve’s playground a favourite amongst kids – both young and old. Picnic tables, a toilet and plenty of space to explore makes this on of Waikanae’s great open spaces.",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/pharasmall.jpg"
+			}],
 			"Pohutukawa Park": [{
 				"Designation": [
 					"Dog on leash",
