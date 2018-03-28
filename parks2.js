@@ -94,7 +94,7 @@ window.onload = function() {
 				],
 				"Suburb": "Paekākāriki",
 				"Location": "Ames Street, Paekākāriki",
-				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#ames",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/paekakariki/#ames",
 				"Blurb": "Ames Street Reserve is a beautiful space to have a picnic, take a walk down the coast and enjoy the scenery that Kāpiti has to offer. The reserve is home to our precious Korarā- Little Penguin, the world’s smallest penguin. Please keep your dogs on leads at all times in this reserve.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/amessmall.jpg"
 			}],
