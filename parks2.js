@@ -865,7 +865,7 @@ window.onload = function() {
 			"Wi Parata Reserve": [{
 				"Designation": [
 					"Dog on leash",
-					"Scenic Walk"
+					"Scenic walk"
 				],
 				"Suburb": "Waikanae",
 				"Suburb": "Waikanae",
