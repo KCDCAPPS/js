@@ -862,6 +862,18 @@ window.onload = function() {
 				"Blurb": "Weka Park's located near Raumati Beach Shopping Village and Raumati Beach School which makes it a great place to stop during school drop off and pickup. It has a playground full of equipment for all ages and abilities and a large sports field. Sit at the picnic tables and watch the kids play.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/wekasmall.jpg"
 			}],
+			"Wi Parata Reserve": [{
+				"Designation": [
+					"Dog on leash",
+					"Scenic Walk"
+				],
+				"Suburb": "Waikanae",
+				"Suburb": "Waikanae",
+				"Location": "Rimu Street, Waikanae",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Wi",
+				"Blurb": "Wi Parata Reserve is a beautiful spot to enjoy an area of forest remnant right in the middle of suburban Waikanae! Immerse yourself amongst the Kohekohe trees and the native bird calls - watch the tui dart between the trees, feeding on the nectar and fruit.",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/wismall.jpg"
+			}],
 			"Wesley Knight Park": [{
 				"Designation": [
 					"Greenspace",
