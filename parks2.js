@@ -252,6 +252,16 @@ window.onload = function() {
 				"Blurb": "Hookway Grove Reserve is a playground nestled amongst native bush on Hookway Grove. It's suited for all ages and there's a picnic table so you can relax and enjoy the beautiful surroundings. There's a track scross the creek at the back of the reserve that you can follow all the way to Kaitawa Reserve.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Hookwaysmall.jpg"
 			}],
+			"Jeep Road Reserve": [{
+				"Designation": [
+					"Greenspace"
+				],
+				"Suburb": "Raumati South",
+				"Location": "Jeep Road, Raumati South",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Raumati/#jeep",
+				"Blurb": "The MOA Community Orchard is a Raumati South community project supported by the Raumati South Resident Association and Kāpiti Coast District Council. The orchard is maintained by community working bees. You're welcome to sample the fruit but please leave plenty for others!",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/jeepsmall.jpg"
+			}],
 			"Jim Cooke Memorial Park": [{
 				"Designation": [
 					"Greenspace",
