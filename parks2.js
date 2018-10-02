@@ -122,6 +122,16 @@ window.onload = function() {
 				"Blurb": "Awatea Lakes spreads between Awatea Avenue, Waterstone Avenue and Jade Lane. Native planting makes the brief walk around the pond a nice escape. Feed the ducks and let the kids loose on a playground that's set back and lowered from the road.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/Jadesmall.jpg"
 			}],
+			"Barry Hadfield Nikau Reserve": [{
+				"Designation": [
+					"Scenic Walk"
+				],
+				"Suburb": "Paraparaumu",
+				"Location": "State Highway 1, Paraparaumu",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Barry",
+				"Blurb": "Walk the track through the Barry Hadfield Nikau Reserve, which covers 11 hectares of regionally significant Kohekohe/Nikau forest remnant. It's home to a number of native birds including fantail, grey warbler, tui, bellbird and kereru.",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/barrysmall.jpg"
+			}],
 			"Campbell Park": [{
 				"Designation": [
 					"Dog on leash",
