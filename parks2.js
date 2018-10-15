@@ -132,6 +132,16 @@ window.onload = function() {
 				"Blurb": "Walk the track through the Barry Hadfield Nikau Reserve, which covers 11 hectares of regionally significant Kohekohe/Nikau forest remnant. It's home to a number of native birds including fantail, grey warbler, tui, bellbird and kereru.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/barrysmall.jpg"
 			}],
+			"Bluegum Reserve": [{
+				"Designation": [
+					"Playground"
+				],
+				"Suburb": "Paraparaumu",
+				"Location": "Ocean Road, Paraparaumu",
+				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Bluegum",
+				"Blurb": "Blue Gum Reserve, on the corner of Ocean Road and Bluegum Road, is home to magnificent bluegum trees, a set of swings and the Ocean Road Community Centre. The community centre is hireable for functions.",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/bluegumsmall.jpg"
+			}],
 			"Campbell Park": [{
 				"Designation": [
 					"Dog on leash",
