@@ -898,11 +898,21 @@ window.onload = function() {
 					"Scenic walk"
 				],
 				"Suburb": "Waikanae",
-				"Suburb": "Waikanae",
 				"Location": "Rimu Street, Waikanae",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waikanae/#Wi",
 				"Blurb": "Wi Parata Reserve is a beautiful spot to enjoy an area of forest remnant right in the middle of suburban Waikanae! Immerse yourself amongst the Kohekohe trees and the native bird calls - watch the tui dart between the trees, feeding on the nectar and fruit.",
 				"Image": "/globalassets/our-district/our-community/parks-and-recreation/wismall.jpg"
+			}],
+			"Whareroa Farm": [{
+				"Designation": [
+					"Greenspace",
+					"Scenic walk"
+				],
+				"Suburb": "Paekakariki",
+				"Location": "SH1, Centennial Highway, Paekakariki",
+				"Webpage": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/whareroa-farm/",
+				"Blurb": "Walking, mountain biking, horse riding and picnicking are activities you can enjoy at Whareroa Farm, a recreation reserve near Paekakariki on the Kapiti coast. Enjoy regenerating shrubland, coastal views and kohekohe forest on these walks that are suitable for children.",
+				"Image": "/globalassets/our-district/our-community/parks-and-recreation/whareroasmall.jpg"
 			}],
 			"Wesley Knight Park": [{
 				"Designation": [
