@@ -52,6 +52,7 @@ window.onload = function() {
 			// ... more data objects ...
 			]
 		});
+		
 
 		$('#designation').select2({
 			placeholder: "Select one or more amenities to filter the park list",
