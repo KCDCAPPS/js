@@ -51,8 +51,7 @@ window.onload = function() {
 			}
 			// ... more data objects ...
 			]
-		});
-		
+		});		
 
 		$('#designation').select2({
 			placeholder: "Select one or more amenities to filter the park list",
@@ -972,11 +971,11 @@ window.onload = function() {
 				'<a class="park-item" href="'+ parkUrl + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
 					'<div class="row">',
 						"<div class='well col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
-							"<div class='col-md-4'>",
+							"<!--<div class='col-md-4'>",
 								"<img style='width: 230px; height: 170px;' ",
 								"src='" + parkAttributes.Image + "' ",
 								"alt='" + park + "' class='img-thumbnail'>",
-							"</div>",
+							"</div>-->",
 							"<div class='col-md-8'>",
 								"<h2 style='margin-top: 10px;'>" + park + "</h2>",
 								"<p>" + parkAttributes.Blurb + "</p>",
