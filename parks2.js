@@ -970,7 +970,7 @@ window.onload = function() {
 			var parkList = [
 				'<a class="park-item" href="'+ parkUrl + ' " target="_blank"', hide ? 'style="display: none"' : '' ,'  >',
 					'<div class="row">',
-						"<div class='card card-body bg-light col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
+						"<div class='card card-body col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
 							"<!--<div class='col-md-4'>",
 								"<img style='width: 230px; height: 170px;' ",
 								"src='" + parkAttributes.Image + "' ",
@@ -1068,13 +1068,13 @@ window.onload = function() {
 		}
 		
 		function applyHoverStyles(){
-			$('.well').mouseover(function() {
+			$('.card').mouseover(function() {
 				$(this).css({'border-color': '#009FE3'});
 			});	
-			$('.well').mouseout(function() {
+			$('.card').mouseout(function() {
 				$(this).css({'border-color': '#e3e3e3'});
 			});	
-			$('.well').parent().parent().css({ 'color': 'inherit' });
+			$('.card').parent().parent().css({ 'color': 'inherit' });
 		}
 		
 		function hideExcessParks(park, attrs, count){
