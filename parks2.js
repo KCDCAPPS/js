@@ -968,9 +968,9 @@ window.onload = function() {
 			var parkUrl = (parkAttributes.Webpage.indexOf('http') == -1 &&  parkAttributes.Webpage.indexOf('www') == -1) ? domain + parkAttributes.Webpage : parkAttributes.Webpage;
 			
 			var parkList = [
-				'<a class="park-item" href="'+ parkUrl + ' " target="_blank"', hide ? 'style="display: none; text-decoration: none;"' : 'style="text-decoration: none;' ,'  >',
-					'<div class="row">',
-						"<div class='card card-body col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
+				'<a class="park-item" href="'+ parkUrl + ' " target="_blank"', hide ? 'style="display: none; text-decoration: none;"' : 'style="text-decoration: none;"' ,'  >',
+					"<div class='card card-body col-md-12' style='background-color: #ffffff; margin-top: 10px; cursor: pointer;'>",
+						'<div class="row">',
 							"<!--<div class='col-md-4'>",
 								"<img style='width: 230px; height: 170px;' ",
 								"src='" + parkAttributes.Image + "' ",
