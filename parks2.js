@@ -169,7 +169,7 @@ window.onload = function() {
 				"Location": "Dixie Street, Te Horo",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/otaki/#Dixie",
 				"Blurb": "Dixie Street Reserve has a playground for all ages with a large pirate ship to explore. There's a great stretch of green space to run around, enjoy a picnic and practice your backyard cricket on the small artificial pitch. A small concrete pad and hoop means you can practice your basketball skills all summer long!",
-				"Image": "/media/34089/parks-and-recreation/dixiesmall.jpg"
+				"Image": "/media/34089/dixiesmall.jpg"
 			}],
 			"Eatwell Reserve": [{
 				"Designation": [
@@ -661,7 +661,7 @@ window.onload = function() {
 				"Location": "Wellington Road, Paekākāriki",
 				"Webpage": "http://www.gw.govt.nz/QEP/",
 				"Blurb": "Queen Elizabeth Park is spread across 650 hectares of duneland from Paekakariki to Raumati South. The park has several access points and plenty of space to enjoy swimming, walking, cycling, horseriding, or picnics. Visit the Tramway Museum, WWII Marines displays and the kahikatea forest remnant.",
-				"Image": "/media/34197/parks-and-recreation/qep.jpg"
+				"Image": "/media/34197/qep.jpg"
 			}],
 			"Regent Drive Reserve": [{
 				"Designation": [
