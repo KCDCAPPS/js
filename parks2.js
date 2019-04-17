@@ -120,7 +120,7 @@ window.onload = function() {
 				"Location": "Jade Lane, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#awatea",
 				"Blurb": "Awatea Lakes spreads between Awatea Avenue, Waterstone Avenue and Jade Lane. Native planting makes the brief walk around the pond a nice escape. Feed the ducks and let the kids loose on a playground that's set back and lowered from the road.",
-				"Image": "/media/34085/Jadesmall.jpg"
+				"Image": "/media/34196/Jadesmall.jpg"
 			}],
 			"Barry Hadfield Nikau Reserve": [{
 				"Designation": [
@@ -130,7 +130,7 @@ window.onload = function() {
 				"Location": "State Highway 1, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#Barry",
 				"Blurb": "Walk the track through the Barry Hadfield Nikau Reserve, which covers 11 hectares of regionally significant Kohekohe/Nikau forest remnant. It's home to a number of native birds including fantail, grey warbler, tui, bellbird and kereru.",
-				"Image": "/media/34085/barrysmall.jpg"
+				"Image": "/media/34195/barrysmall.jpg"
 			}],
 			"Bluegum Reserve": [{
 				"Designation": [
@@ -661,7 +661,7 @@ window.onload = function() {
 				"Location": "Wellington Road, Paekākāriki",
 				"Webpage": "http://www.gw.govt.nz/QEP/",
 				"Blurb": "Queen Elizabeth Park is spread across 650 hectares of duneland from Paekakariki to Raumati South. The park has several access points and plenty of space to enjoy swimming, walking, cycling, horseriding, or picnics. Visit the Tramway Museum, WWII Marines displays and the kahikatea forest remnant.",
-				"Image": "/media/34085/parks-and-recreation/qep.jpg"
+				"Image": "/media/34197/parks-and-recreation/qep.jpg"
 			}],
 			"Regent Drive Reserve": [{
 				"Designation": [
@@ -705,7 +705,7 @@ window.onload = function() {
 				"Location": "San Vito Place, Paraparaumu",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/Paraparaumu/#sanvito",
 				"Blurb": "This playground is nestled within the San Vito Place cul-de-sac and has equipment suited to younger children. There's plenty for the little ones to practice climbing skills on and seating to relax and enjoy this quiet suburban playground.",
-				"Image": "/media/34085/sansmall.jpg"
+				"Image": "/media/34198/sansmall.jpg"
 			}],
 			"Shotover Grove Reserve": [{
 				"Designation": [
@@ -875,7 +875,7 @@ window.onload = function() {
 				"Location": "Tutere Street, Waikanae Beach",
 				"Webpage": "Our-District/Our-Community/Parks-and-Recreation/parks/waimeha-domain",
 				"Blurb": "You can get to Waikanae Beach through a number of access ways from Waimeha Domain. There’s heaps to do here; a colourful playground with equipment for different ages; picnic areas; a volleyball net; tennis courts; and plenty of open green space to run around and enjoy being close to the beach",
-				"Image": "/media/34085/waimehasmall.jpg"
+				"Image": "/media/34199/waimehasmall.jpg"
 			}],
 			"Weka Park": [{
 				"Designation": [
